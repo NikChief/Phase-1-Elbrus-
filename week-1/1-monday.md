@@ -30,3 +30,5 @@
 
 ### Вспомогательные источники
 
+- [Документация Mozilla](https://developer.mozilla.org/ru/docs/Web/HTML)
+- [Шпаргалка HTML](http://www.simplehtmlguide.com/cheatsheet.php)
