@@ -11,7 +11,7 @@
 2. [HTML - Форма регистрации](https://github.com/Elbrus-Bootcamp/html-registration/tree/master)
 3. [HTML - Газета Эльбрус](https://github.com/Elbrus-Bootcamp/html-newspaper)
 4. [HTML - Меню навигации по HTML-странице](https://github.com/Elbrus-Bootcamp/html-navigation)
-5. [Git](https://github.com/Elbrus-Bootcamp/git-questions)
+5. [Git - вопросы](https://github.com/Elbrus-Bootcamp/git-questions)
 
 
 ### Вспомогательные источники
