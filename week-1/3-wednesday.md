@@ -7,20 +7,12 @@
 
 
 **Задания**
-1. [JS -]
+1. [JS base - Структуры данных](tasks/data_structures.js)
+2. [JS base - Алгоритмы](tasks/algorithms.js)
+3. [JS base - Cheering mascot](tasks/cheering_mascot.js)
 
-
-**Подготовить на завтра**
-
-
-### Допольнительный раздел
-
-**Задания:**
-
-1. [JS -]
 
 ### Вспомогательные источники
 
 - [Документация Mozilla](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 - [Интерактивная шпаргалка JS](https://htmlcheatsheet.com/js)
-- [Шпаргалка CSS (en)](https://cdn.makeawebsitehub.com/wp-content/uploads/2016/05/css-cheat-sheet-2016-1.jpg)

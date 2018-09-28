@@ -1,47 +1,26 @@
 // Release 0: Массивы. Есть 2 массива: arrayOfNames - с именами, arrayOfColors - с цветами.
 // Надо получить объект coloredNames следующего вида: {<имя-1>: <цвет-1>, <имя-2>: <цвет-2>, <имя-3>: <цвет-3>}
 // Использовать цикл.
-
 const arrayOfNames=["Bill","Anna","Peter"];
 const arrayOfColors=["Red","Blue","Pink"];
-let coloredNames={} 
+let coloredNames={}
+
+// Пишите код здесь.
 
 
-//Release 2: Build Many Objects Using a Constructor
-
-function Car(name,color,convertable,good_weather) {
-	this.name=name;
-	this.color=color;
-	this.convertable=convertable;
-	this.good_weather=good_weather;
-	
-	this.sunRoofStatus = function() {
-		if ((this.convertable) && (this.good_weather)) {
-			console.log("the sunroof is open"); 
-		}
-		else if ((this.convertable)&&(!this.good_weather)) {
-			console.log("the weather isn't so good");
-		}
-		else if ((!this.convertable) && (this.good_weather)) {
-			console.log("we don't have a sunroof");
-		} else {
-			console.log("smth went wrong");
-		}
-		return;
+// Release 1: Заполните конструктор класса Машина. Добавьте Машине метод 'beep'.
+// Объявите 3 объекта машины с разными параметрами.
+class Car {
+	constructor(brand, color, type) {
+		// Пишите код здесь.
 	}
-
 };
+// И здесь.
 
-//Driver code
-console.log(horsesDate);
-
-// let's call a new car
-
-var ford= new Car("mustang","red",true,false);
-
-console.log("our function:");
-console.log("");
-console.log(ford);
-console.log("our function in function:");
-console.log("");
-console.log(ford.sunRoofStatus());
+// Release 2: Работаем с Date().
+// Напишите функцию, которой на вход будет подаваться ваша дата рождения,
+// а на выходе она будет выдавать ваш возраст.
+// Если параметр inSeconds равен true, то возраст выдается в секундах. Иначе округляем до количества лет.
+function getAge(birthDate, inSeconds) {
+	// Пишите код здесь.
+}
