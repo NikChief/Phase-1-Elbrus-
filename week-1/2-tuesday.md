@@ -7,9 +7,9 @@
 
 
 **Задания**
-1. [CSS - Диаграмма](tasks/diagramm.md)
-2. [CSS - Эквалайзер](tasks/equalizer.md)
-3. [CSS - Обратная связь](tasks/feedback.md)
+1. [CSS - Диаграмма](https://github.com/Elbrus-Bootcamp/css-diagramm)
+2. [CSS - Эквалайзер](https://github.com/Elbrus-Bootcamp/css-equalizer)
+3. [CSS - Обратная связь](https://github.com/Elbrus-Bootcamp/css-feedback)
 4. [Bootstrap - Навигация + Карусель] (tasks/)
 
 
@@ -17,8 +17,8 @@
 
 **Задания:**
 
-1. [CSS - Лошадки](tasks/horses.md)
-2. [CSS - Социальные ссылки](tasks/social.md)
+1. [CSS - Лошадки](https://github.com/Elbrus-Bootcamp/css-horses)
+2. [CSS - Социальные ссылки](https://github.com/Elbrus-Bootcamp/css-social)
 
 ### Вспомогательные источники
 
