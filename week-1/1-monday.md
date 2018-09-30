@@ -7,7 +7,7 @@
 
 
 **Задания**
-1. [HTML - Таблица](../tasks/html-table)
+1. [HTML - Таблица](../../../../tasks/html-table)
 2. [HTML - Форма регистрации](../tasks/html-registration)
 3. [HTML - Газета Эльбрус](../tasks/html-newspaper)
 4. [HTML - Меню навигации по HTML-странице](../tasks/html-navigation)
