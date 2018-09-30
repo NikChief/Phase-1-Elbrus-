@@ -1,0 +1,30 @@
+[submodule "tasks/html-table"]
+	path = tasks/html-table
+	url = git@github.com:Elbrus-Bootcamp/html-table.git
+[submodule "tasks/html-registration"]
+	path = tasks/html-registration
+	url = git@github.com:Elbrus-Bootcamp/html-registration.git
+[submodule "tasks/html-navigation"]
+	path = tasks/html-navigation
+	url = git@github.com:Elbrus-Bootcamp/html-navigation.git
+[submodule "tasks/html-newspaper"]
+	path = tasks/html-newspaper
+	url = git@github.com:Elbrus-Bootcamp/html-newspaper.git
+[submodule "tasks/css-horses"]
+	path = tasks/css-horses
+	url = git@github.com:Elbrus-Bootcamp/css-horses.git
+[submodule "tasks/css-social"]
+	path = tasks/css-social
+	url = git@github.com:Elbrus-Bootcamp/css-social.git
+[submodule "tasks/css-feedback"]
+	path = tasks/css-feedback
+	url = git@github.com:Elbrus-Bootcamp/css-feedback.git
+[submodule "tasks/css-equalizer"]
+	path = tasks/css-equalizer
+	url = git@github.com:Elbrus-Bootcamp/css-equalizer.git
+[submodule "tasks/css-diagramm"]
+	path = tasks/css-diagramm
+	url = git@github.com:Elbrus-Bootcamp/css-diagramm.git
+[submodule "tasks/git-questions"]
+	path = tasks/git-questions
+	url = git@github.com:Elbrus-Bootcamp/git-questions.git
