@@ -7,11 +7,11 @@
 
 
 **Задания**
-1. [HTML - Таблица](../../../../tasks/html-table)
-2. [HTML - Форма регистрации](../tasks/html-registration)
-3. [HTML - Газета Эльбрус](../tasks/html-newspaper)
-4. [HTML - Меню навигации по HTML-странице](../tasks/html-navigation)
-5. [Git - вопросы](../tasks/git-questions)
+1. [HTML - Таблица](../../../../html-table)
+2. [HTML - Форма регистрации](../../../../html-registration)
+3. [HTML - Газета Эльбрус](../../../../html-newspaper)
+4. [HTML - Меню навигации по HTML-странице](../../../../html-navigation)
+5. [Git - вопросы](../../../../git-questions)
 
 
 ### Вспомогательные источники
