@@ -24,4 +24,4 @@
 
 * Read about [CSS](../resources/case-eee_72715407554996828e0c.md)
 * [eng][CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
-* [ru][Учим CSS за 1 час! #От Профессионала](https://www.youtube.com/watch?v=iPV5GKeHyV4) 
+* [ru][Учим CSS за 1 час! Хауди Хо](https://www.youtube.com/watch?v=iPV5GKeHyV4) 
