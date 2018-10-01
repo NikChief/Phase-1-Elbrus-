@@ -7,9 +7,9 @@
 
 
 **Задания**
-1. [JS base - Структуры данных](../../../../data_structures.js)
-2. [JS base - Алгоритмы](../../../../algorithms.js)
-3. [JS base - Talk with Siri](../../../../siri.js)
+1. [JS base - Структуры данных](../../../../js-data_structures)
+2. [JS base - Алгоритмы](../../../../js-algorithms)
+3. [JS base - Talk with Siri](../../../../js-siri)
 
 
 ### Вспомогательные источники
