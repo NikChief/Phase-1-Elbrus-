@@ -7,9 +7,9 @@
 
 
 **Задания**
-1. [JS base - Структуры данных](tasks/data_structures.js)
-2. [JS base - Алгоритмы](tasks/algorithms.js)
-3. [JS base - Cheering mascot](tasks/cheering_mascot.js)
+1. [JS base - Структуры данных](../../../../data_structures.js)
+2. [JS base - Алгоритмы](../../../../algorithms.js)
+3. [JS base - Talk with Siri](../../../../siri.js)
 
 
 ### Вспомогательные источники
