@@ -26,7 +26,7 @@
 - [Шпаргалка CSS (en)](https://cdn.makeawebsitehub.com/wp-content/uploads/2016/05/css-cheat-sheet-2016-1.jpg)
 
 
-** Подготовиться на завтра **
+**Подготовиться на завтра**
 
 - [Выразительный JavaScript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)
 - [CodeAcademy](https://www.codecademy.com/learn)
