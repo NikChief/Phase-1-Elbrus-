@@ -27,4 +27,4 @@ Time    | Activity
 
 ## Парное программирование 
 
-- [Пары](../../resources/pairs.md)
+- [Пары](https://github.com/Elbrus-Bootcamp/phase-1/blob/master/resources/pairs.md)
