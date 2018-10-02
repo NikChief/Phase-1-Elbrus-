@@ -24,3 +24,9 @@
 - [Документация Mozilla](https://developer.mozilla.org/ru/docs/Web/CSS)
 - [Шпаргалка CSS (ru)](https://www.exlab.net/files/tools/sheets/css/css.png)
 - [Шпаргалка CSS (en)](https://cdn.makeawebsitehub.com/wp-content/uploads/2016/05/css-cheat-sheet-2016-1.jpg)
+
+
+## Подготовиться на завтра 
+
+- [Выразительный JavaScript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)
+- [CodeAcademy](https://www.codecademy.com/learn)
