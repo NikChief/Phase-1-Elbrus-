@@ -27,4 +27,4 @@ Time    | Activity
 
 ## Парное программирование 
 
-- [Пары](../resources/pairs.md)
+- [Пары](../../resources/pairs.md)
