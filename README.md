@@ -23,3 +23,8 @@ Time    | Activity
 13:15   | Обед
 14:00   | Парное программирование 
 19:00   | Приглашенный спикер
+
+
+## Парное программирование 
+
+- [Пары](https://github.com/Elbrus-Bootcamp/phase-1/blob/master/resources/pairs.md)
