@@ -10,7 +10,7 @@
 1. [JS base - Отработка JavaScript - 1](../../../../js-base-tasks)
 2. [JS base - Отработка JavaScript - 2](../../../../js-base-algo_functions)
 3. [JS base - Talk with Siri](../../../../js-base-siri)
-4. [JS base - Римские цифры](../../../../js-base-roman_nums)
+4. [JS base - Римские цифры](../../../../js-base-roma-numberable)
 
 
 ### Вспомогательные источники
