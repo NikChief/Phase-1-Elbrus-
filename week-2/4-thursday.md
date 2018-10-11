@@ -10,5 +10,5 @@
 - [Поиск слова](../../../../js-word-search-challenge)
 
 * Доп материалы*
-- https://learn.javascript.ru/regular-expressions-javascript
-- https://learn.javascript.ru/regular-expressions-javascript
+- [Регулярные выражения - методы](https://learn.javascript.ru/regular-expressions-javascript)
+- [Регулярные выражения - онлайн тестер](https://regex101.com)
