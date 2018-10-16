@@ -4,9 +4,8 @@
 ### Основной раздел
 
 **Задания**
-1. [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)
-2. [Design Drill: Classical Inheritance](../../../../design-drill-classical-inheritance-challenge)
-3. [Cookies and Ovens](../../../../cookies-and-ovens-challenge)
+1. [Cookies and Ovens](../../../../cookies-and-ovens-challenge)
+2. [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)
 
 ### Вспомогательные источники
 
