@@ -5,7 +5,7 @@
 
 **Задания**
 1. [For First Time Students](../../../../algorithms-and-oo-checkpoint-challenge)
-2. [Js Todos 1](../../../../ruby-todos-1-0-core-features-challenge)
+2. [ToDos List Js](../../../../to-do-list-JS)
 3. [For Students Repeating Phase 1](../../../../alt-algorithms-and-oo-checkpoint-challenge)
 
 
