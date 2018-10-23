@@ -8,7 +8,6 @@
 2. 
 
 
-
 ### Вспомогательные источники
 
 - [шпаргалка ENG](https://www.w3schools.com/nodejs/nodejs_mysql_insert.asp)
