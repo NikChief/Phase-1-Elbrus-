@@ -6,7 +6,7 @@
 **Задания**
 1. [Sequelize - Table](../../../../sequelize-intro-creating-table-challenge)
 2. [Sequelize - Association - Hotels ](../../../../seq-hotels)
-3. [Sequelize - Association - Hotels ](../../../../seq-hotels)
+3. [Sequelize - Race](../../../../sequelize-race)
 
 
 
