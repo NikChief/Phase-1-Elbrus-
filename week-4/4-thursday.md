@@ -4,7 +4,7 @@
 ### Основной раздел
 
 **Задания**
-1. [Sequelize - Hotels](../../../../seq-hotels)
+1. [Sequelize - Table](../../../../sequelize-intro-creating-table-challenge)
 2. [Sequelize - Association - Hotels ](../../../../seq-hotels)
 
 
