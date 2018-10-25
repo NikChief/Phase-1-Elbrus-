@@ -5,7 +5,7 @@
 
 **Задания**
 1. [Sequelize - Hotels](../../../../seq-hotels)
-2. 
+2. [Sequelize - Association - Hotels ](../../../../seq-hotels)
 
 
 
