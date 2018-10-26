@@ -1,7 +1,5 @@
 ## Пятница
 
-### Core
-
 **Задания**
 
-- [](../../../../todos-challenge) - Group Project
+- [TODO list](../../../../todo-list-challenge) - Групповой проект
