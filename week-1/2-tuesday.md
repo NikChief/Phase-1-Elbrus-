@@ -7,6 +7,7 @@
 
 
 **Задания**
+0. [Learn CSS Layout](http://learnlayout.com) **very very important**
 1. [CSS - Диаграмма](../../../../css-diagramm)
 2. [CSS - Эквалайзер](../../../../css-equalizer)
 3. [CSS - Обратная связь](../../../../css-feedback)
@@ -15,8 +16,6 @@
 ### Дополнительный раздел
 
 **Задания:**
-
-0. [Learn CSS Layout](http://learnlayout.com) **very very important**
 1. [CSS - Лошадки](../../../../css-horses)
 2. [CSS - Социальные ссылки](../../../../css-social)
 
