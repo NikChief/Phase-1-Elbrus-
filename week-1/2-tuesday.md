@@ -16,6 +16,7 @@
 
 **Задания:**
 
+0. [Learn CSS Layout](http://learnlayout.com) **very very important**
 1. [CSS - Лошадки](../../../../css-horses)
 2. [CSS - Социальные ссылки](../../../../css-social)
 
