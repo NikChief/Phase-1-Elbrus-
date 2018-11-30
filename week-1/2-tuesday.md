@@ -7,23 +7,27 @@
 
 
 **Задания**
-0. [Learn CSS Layout](http://learnlayout.com) **very very important**
-1. [CSS - Диаграмма](../../../../css-diagramm)
-2. [CSS - Эквалайзер](../../../../css-equalizer)
-3. [CSS - Обратная связь](../../../../css-feedback)
+
+1. [Learn CSS Layout](http://learnlayout.com) **Very important**
+2. Поработайте с [тренажером](http://flukeout.github.io/) (Не тратьте на это задание более 30 минут)
+3. Задание X
+4. [CSS - Газета Эльбрус](../../../../css-newspaper)
+5. [CSS - Диаграмма](../../../../css-diagramm) (поработайте с `border`)
 
 
 ### Дополнительный раздел
 
 **Задания:**
-1. [CSS - Лошадки](../../../../css-horses)
-2. [CSS - Социальные ссылки](../../../../css-social)
+1. [CSS - Обратная связь](../../../../css-feedback)
+2. [CSS - Лошадки](../../../../css-horses)
+3. [CSS - Социальные ссылки](../../../../css-social)
 
 ### Вспомогательные источники
 
 - [Документация Mozilla](https://developer.mozilla.org/ru/docs/Web/CSS)
 - [Шпаргалка CSS (ru)](https://www.exlab.net/files/tools/sheets/css/css.png)
 - [Шпаргалка CSS (en)](https://cdn.makeawebsitehub.com/wp-content/uploads/2016/05/css-cheat-sheet-2016-1.jpg)
+- [Positioning](https://learn.shayhowe.com/advanced-html-css/detailed-css-positioning/)
 
 - [MDN position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 - [MDN display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
