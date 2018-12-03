@@ -10,7 +10,7 @@
 
 1. [Learn CSS Layout](http://learnlayout.com) **Very important**
 2. Поработайте с [тренажером](http://flukeout.github.io/) (Не тратьте на это задание более 30 минут)
-3. Задание X
+3. [CSS - базовая стилизация формы](../../../../css-basic-form-styling)
 4. [CSS - Газета Эльбрус](../../../../css-newspaper)
 5. [CSS - Диаграмма](../../../../css-diagramm) (поработайте с `border`)
 
