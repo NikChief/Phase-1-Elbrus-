@@ -13,7 +13,7 @@
 
 **Дополнительные задания**
 1. [Вложенные массивы](../../../../js-nested-arrays)
-2. [Игра Boggle 1]https://github.com/Elbrus-Bootcamp/boggle-1-basic-board-generation-challenge
+2. [Игра Boggle 1](https://github.com/Elbrus-Bootcamp/boggle-1-basic-board-generation-challenge)
 
 **Задание на дом**
 1. Еще раз просмотрите [стандарт](https://github.com/leonidlebedev/javascript-airbnb) написания кода - это очень важная тема. 
