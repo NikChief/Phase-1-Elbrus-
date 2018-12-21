@@ -5,12 +5,13 @@
 **Задания**
 
 - Установите PostgreSQL на свой ноутбук и убедитесь, что он работает.
-
 ```
 sudo apt update
 sudo apt install postgresql postgresql-contrib
 
 ```
+
+- [тренер sql zoo](https://sqlzoo.net/wiki/SELECT_basics)
 
 **Review**
 - просмотреть все основные задания за эту неделю и убедитесь что вы разобрались в теме OOPJS
