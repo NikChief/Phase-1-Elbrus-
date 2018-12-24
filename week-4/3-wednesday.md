@@ -1,11 +1,10 @@
 ## Среда
 
-### Sequelize - Intro
+### MongoDB - Intro
 ### Основной раздел
 
 **Задания**
-1. [Student Roster Schema](../../../../1-student-roster-db-from-schema-challenge)
-2. [Sequelize intro](../../../../sequelize-intro)
+1. [Mongo intro](../../../../sequelize-intro)
 
 
 
