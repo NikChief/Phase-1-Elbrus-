@@ -5,7 +5,6 @@
 
 **Задания**
 1. [Sql Tutor](https://spicy-chipmunk-82.localtunnel.me/)
-2. 
 
 
 ### Вспомогательные источники
