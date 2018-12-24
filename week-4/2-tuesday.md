@@ -2,7 +2,7 @@
 
 ## Вторник
 
-### SQL and Node Integration
+### Schema + SQL and Node Integration
 ### Основной раздел
 
 **Задания**
