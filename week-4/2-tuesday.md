@@ -6,8 +6,7 @@
 ### Основной раздел
 
 **Задания**
-1. [Sql Tutor](https://spicy-chipmunk-82.localtunnel.me/)
-2. [Student Roster Schema](../../../../1-student-roster-db-from-schema-challenge)
+1. [Student Roster Schema](../../../../1-student-roster-db-from-schema-challenge)
 
 
 
