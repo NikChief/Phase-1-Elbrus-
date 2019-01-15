@@ -5,16 +5,16 @@
 
 
 **Задания**
-1. [DOM-1](../../../../js-dom)
-2. [DOM-2](../../../../js-dom-more)
+1. [DOM-1](../../../../core-js-dom)
+2. [DOM-2](../../../../core-js-dom-more)
 3. _Code-style_ - теперь внимательно просмотрите свой код, убедитесь что любой разработчик с первого взгляда сможет в нем разобраться. Обратите внимание на отступы, имена переменных, соответствие [стандарту](https://github.com/leonidlebedev/javascript-airbnb)
 4. _Тесты_ - вам уже приходилось сталкиваться с тестированием кода. Рекомендуем вам поподробнее ознакомиться с понятием "тестирование", особенно "Модульное тестирование"(unit-tests). Для начала прочитайте [тут](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5). 
  Теперь, если вы понимаете что такое тестирование и зачем оно нужно - можете подробнее ознакомиться с работой конкретной библиотеки для тестривания: jasmine на [хабре](https://habr.com/post/167173/) или открыв [официальную документацию](https://jasmine.github.io/tutorials/your_first_suite).
 
 **Дополнительные задания**
-1. [Вложенные массивы](../../../../js-nested-arrays)
-2. [Игра Boggle 1](https://github.com/Elbrus-Bootcamp/boggle-1-basic-board-generation-challenge)
-3. [Игра Boggle 2](https://github.com/Elbrus-Bootcamp/boggle-2-word-checker-challenge)
+1. [Вложенные массивы](../../../../core-js-nested-arrays)
+2. [Игра Boggle 1](../../../../extra-nested-arrays-boggle-1-board-generation)
+3. [Игра Boggle 2](../../../../extra-nested-arrays-boggle-2-word-checker)
 
 **Задание на дом**
 1. Еще раз просмотрите [стандарт](https://github.com/leonidlebedev/javascript-airbnb) написания кода - это очень важная тема. 
