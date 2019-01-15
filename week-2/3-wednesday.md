@@ -5,14 +5,14 @@
 
 **Задачи**
 
-- [Алгоритмы - Факториал](../../../../algorithm-drill-factorial-challenge)
-- [Числа Фибоначчи](../../../../the-fibonacci-sequence-challenge)
-- [Линейный поиск](../../../../algorithm-drill-linear-search-challenge)
-- [Бинарный поиск](../../../../algorithm-drill-binary-search-challenge)
-- [Анаграммы - поиск анаграммы](../../../../anagrams-1-detecting-anagrams-challenge)
+- [Алгоритмы - Факториал](../../../../core-algorithm-factorial)
+- [Числа Фибоначчи](../../../../core-algorithm-fibonacci)
+- [Линейный поиск](../../../../core-algorithm-linear-search)
+- [Бинарный поиск](../../../../core-algorithm-binary-search)
+- [Анаграммы - поиск анаграммы](../../../../core-algorithm-anagrams-1-detecting)
 
 ### Дополнительно
 
-- [Algorithm Drill: Prime Factors](../../../../algorithm-drill-prime-factors-challenge)
-- [Prime Factors: Sieve Of Eratosthenes](../../../../prime-factors-sieve-of-eratosthenes-challenge)
-- [Algorithm Drill: Calculating Count of Subsets](../../../../review-calculating-subsets-with-recursion-challenge)
+- [Algorithm Drill: Prime Factors](../../../../core-algorithm-prime-factors)
+- [Prime Factors: Sieve Of Eratosthenes](../../../../core-algorithm-prime-factors-eratosthenes)
+- [Algorithm Drill: Calculating Count of Subsets](../../../../core-algorithm-calculating-subsets-with-recursion)
