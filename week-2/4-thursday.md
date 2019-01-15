@@ -5,9 +5,9 @@
 
 **Задачи**
 
-- [Регулярные выражения](../../../../js-drill-regular-expressions-challenge)
-- [JS Racer](../../../../js-racer-1-outrageous-fortune-challenge)
-- [Поиск слова](../../../../js-word-search-challenge)
+- [Регулярные выражения](../../../../core-regular-expressions)
+- [JS Racer](../../../../core-algorithm-racer-1)
+- [Поиск слова](../../../../core-algorithm-word-search)
 
 *Доп материалы*
 - [Регулярные выражения - методы](https://learn.javascript.ru/regular-expressions-javascript)
