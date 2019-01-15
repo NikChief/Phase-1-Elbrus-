@@ -6,17 +6,17 @@
 ### Основной раздел
 
 **Задания**
-1. [HTML - Таблица](../../../../html-table)
-2. [HTML - Форма регистрации](../../../../html-registration)
-3. [HTML - Газета Эльбрус](../../../../html-newspaper)
-4. [Git - Вопросы](../../../../git-questions)
+1. [HTML - Таблица](../../../../core-html-table)
+2. [HTML - Форма регистрации](../../../../core-html-registration)
+3. [HTML - Газета Эльбрус](../../../../core-html-newspaper)
+4. [Git - Вопросы](../../../../core-git-questions)
 
 
 ### Дополнительный раздел
 
 **Задания**
 1. [Git - Интерактивный курс](https://learngitbranching.js.org/)
-2. [HTML - Меню навигации по HTML-странице](../../../../html-navigation)
+2. [HTML - Меню навигации по HTML-странице](../../../../extra-html-navigation)
 
 
 ### Вспомогательные источники
