@@ -7,8 +7,8 @@
 
 
 **Задания**
-1. [JS base - Talk with Siri](../../../../js-base-siri)
-2. [JS base - Римские цифры](../../../../js-base-roma-numberable)
+1. [JS base - Talk with Siri](../../../../core-js-base-siri)
+2. [JS base - Римские цифры](../../../../core-js-base-roma-numberable)
 
 
 ### Вспомогательные источники
