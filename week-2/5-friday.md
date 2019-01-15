@@ -2,4 +2,4 @@
 ### Судоку
 
 
-- [Sudoku Challenge](../../../../sudoku-challenge)
+- [Sudoku Challenge](../../../../project-sudoku)
