@@ -8,8 +8,8 @@
 
 **Задания**
 
-1. [JS base - Отработка JavaScript - 1](../../../../js-base-tasks)
-2. [JS base - Отработка JavaScript - 2](../../../../js-base-algo_functions)
+1. [JS base - Отработка JavaScript - 1](../../../../core-js-base-tasks)
+2. [JS base - Отработка JavaScript - 2](../../../../core-js-base-algos)
 
 ### Вспомогательные источники
 
