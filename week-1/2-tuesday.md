@@ -46,4 +46,4 @@
 **Подготовиться на завтра**
 
 - [Выразительный JavaScript](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)
-- [CodeAcademy](https://www.codecademy.com/learn)
+- [CodeAcademy](https://www.codecademy.com/learn/introduction-to-javascript)
