@@ -30,6 +30,6 @@
 
 **Подготовка на завтра**
 
-* Почитайте про [CSS](http://ru.learnlayout.com)
+* Изучение CSS Разметки [CSS](http://ru.learnlayout.com)
 * [[eng] CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
 * [[ru]Учим CSS за 1 час! Хауди Хо](https://www.youtube.com/watch?v=iPV5GKeHyV4) 
