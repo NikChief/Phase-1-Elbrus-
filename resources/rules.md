@@ -1,4 +1,4 @@
-#Правила
+# Правила
 
 The content here is intended to help you remember and follow the basic rules of engagement at Elbrus Bootcamp. Remember that all staff are here to help you at any time. Look to your accountability buddies for support and guidance as well.
 
@@ -49,9 +49,3 @@ However, there are some non-negotiable rules about being a part of the Elbrus Bo
 - No food allowed near the computers.
 - No alcohol allowed at Elbrus Bootcamp unless authorized by staff.
 - No loud music allowed at Elbrus Bootcamp unless authorized by staff.
-
-Phase 1 students have their own set of responsibilities:
-
-- Attend yoga each week.
-- Keep the space clean before the next cohort's orientation, for Elbrus Bootcamp , and any outside visits or speakers.
-
