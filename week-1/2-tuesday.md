@@ -18,7 +18,7 @@
 
 **Задания:**
 
-1. Изучите [Flexbox](https://www.w3schools.com/css/css_grid.asp) и [Grid](https://www.w3schools.com/css/css_grid.asp)
+1. Изучите [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) и [Grid](https://www.w3schools.com/css/css_grid.asp)
 2. [CSS - Обратная связь](../../../../extra-css-feedback)
 3. [CSS - Лошадки](../../../../extra-css-horses)
 4. [CSS - Социальные ссылки](../../../../extra-css-social)
