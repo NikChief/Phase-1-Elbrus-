@@ -13,6 +13,6 @@
 
 ### Дополнительно
 
-- [Algorithm Drill: Prime Factors](../../../../core-algorithm-prime-factors)
-- [Prime Factors: Sieve Of Eratosthenes](../../../../core-algorithm-prime-factors-eratosthenes)
-- [Algorithm Drill: Calculating Count of Subsets](../../../../core-algorithm-calculating-subsets-with-recursion)
+- [Простые числа](../../../../extra-algorithm-prime-factors)
+- [Решето Эратосфена](../../../../extra-algorithm-prime-factors-eratosthenes)
+- [Подсчет количества подмножеств](../../../../extra-algorithm-calculating-subsets-with-recursion)
