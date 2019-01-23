@@ -20,7 +20,7 @@
 
 ### Вспомогательные источники
 
-- [Unit-тестирование. Jasmine]: https://habr.com/ru/post/167173/
-- [Среда исполнения кода Repl]: https://repl.it
+- [Unit-тестирование. Jasmine](https://habr.com/ru/post/167173/)
+- [Среда исполнения кода Repl](https://repl.it)
 - [JS Документация Mozilla](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 - [Интерактивная шпаргалка JS](https://htmlcheatsheet.com/js)
