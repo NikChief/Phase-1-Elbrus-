@@ -7,15 +7,16 @@
 
 **Задания**
 
-1. [JS base - Отработка JavaScript - 1](../../../../core-js-base-tasks)
-2. [JS base - Отработка JavaScript - 2](../../../../core-js-base-algos)
+- [JS base - Отработка JavaScript - 1](../../../../core-js-base-tasks)
+- [JS base - Отработка JavaScript - 2](../../../../core-js-base-algos)
 
 
 ### Дополнительный раздел
 
 **Задания**
 
-1. [JS base - Римские цифры](../../../../core-js-base-roma-numberable)
+- [JS base - Римские цифры](../../../../core-js-base-roma-numberable)
+- [JS base - Talk with Siri](../../../../core-js-base-siri)
 
 
 ### Вспомогательные источники
