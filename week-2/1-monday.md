@@ -6,6 +6,7 @@
 **Задания**
 - [Siri](../../../../core-js-base-siri)
 - [Пианино](../../../../core-js-base-piano)
+- [Git Branching](https://learngitbranching.js.org)
 
 
 **Дополнительные задания**
