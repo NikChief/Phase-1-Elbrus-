@@ -4,10 +4,14 @@
 ### Основной раздел
 
 **Задания**
-1. [Вложенные массивы - 1](../../../../core-js-nested-arrays)
-2. [Вложенные массивы - 2](../../../../core-js-nested-arrays-2)
-3. [Перебирающие методы](../../../../core-js-enumerable-methods)
+- [Вложенные массивы - 1](../../../../core-js-nested-arrays)
+- [Вложенные массивы - 2](../../../../core-js-nested-arrays-2)
+- [Перебирающие методы](../../../../core-js-enumerable-methods)
 
+
+**Дополнительные задания**
+- [Игра Boggle 1](../../../../extra-nested-arrays-boggle-1-board-generation)
+- [Игра Boggle 2](../../../../extra-nested-arrays-boggle-2-word-checker)
 
 ### Вспомогательные источники
 
