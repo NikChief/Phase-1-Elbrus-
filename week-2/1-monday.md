@@ -8,11 +8,10 @@
 - [Пианино](../../../../core-js-base-piano)
 - [Git Branching](https://learngitbranching.js.org)
 
-
 **Дополнительные задания**
 
-! Задания на тему следующего дня !
-- [Вложенные массивы](../../../../core-js-nested-arrays)
+- [Простые множители](../../../../extra-algorithm-prime-factors)
+- [Решето Эратосфена](../../../../extra-algorithm-prime-factors-eratosthenes)
 - [Игра Boggle 1](../../../../extra-nested-arrays-boggle-1-board-generation)
 
 **Задание на дом**
