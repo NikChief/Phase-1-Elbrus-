@@ -14,7 +14,6 @@
 ! Задания на тему следующего дня !
 - [Вложенные массивы](../../../../core-js-nested-arrays)
 - [Игра Boggle 1](../../../../extra-nested-arrays-boggle-1-board-generation)
-- [Игра Boggle 2](../../../../extra-nested-arrays-boggle-2-word-checker)
 
 **Задание на дом**
 - Еще раз просмотрите [стандарт](https://github.com/leonidlebedev/javascript-airbnb) написания кода - это очень важная тема. 
