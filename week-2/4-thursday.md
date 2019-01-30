@@ -12,7 +12,6 @@
     - [Онлайн-RegEx-Кроссворды](https://regexcrossword.com/)
     - [Онлайн-RegEx-Задачи](https://www.hackerrank.com/domains/regex)
 
-
 ### Задачи на JS
 
 - [JS Racer](../../../../core-algorithm-racer-1)
