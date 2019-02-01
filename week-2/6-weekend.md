@@ -4,11 +4,10 @@
 
 **Задания**
 
-- Прочитайте про объекты, классы, прототипы в книге Eloquent JS
-
 Изучите материал по следующим ссылкам:
-- https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Classes
+- http://jsraccoon.ru/es6-classes
 - https://learn.javascript.ru/es-class
+- https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Classes
 
 Постарайтесь разобраться в данной статье:
 - https://habr.com/post/175029/
