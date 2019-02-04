@@ -3,6 +3,8 @@
 ### Основы ООП: Классы
 ### Основной раздел
 
+**checkpoint challenge #1**
+
 **Задания**
 1. [Велосипеды и станции](../../../../oojs-bikes-and-stations-challenge)
 2. [Сад](../../../../oojs-garden-challenge)
