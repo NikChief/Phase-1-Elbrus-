@@ -1,11 +1,11 @@
 ## Четверг
 
-### ООП
+### Работа с файлами, парсинг
 ### Основной раздел
 
 **Задания**
-1. [Бистро Берни](../../../../algorithms-and-oo-checkpoint-challenge)
-2. [ToDos List Js](../../../../to-do-list-JS)
+- [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)
+- [ToDos List Js](../../../../to-do-list-JS)
 
 ### Материалы на завтра 
 - [The Model-View-Controller ENG](../../../../mvc)
