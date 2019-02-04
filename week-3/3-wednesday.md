@@ -4,8 +4,14 @@
 ### Основной раздел
 
 **Задания**
-1. [Cookies and Ovens](../../../../cookies-and-ovens-challenge)
-2. [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)
+- [Cookies and Ovens](../../../../cookies-and-ovens-challenge)
+- [Бистро Берни](../../../../algorithms-and-oo-checkpoint-challenge)
+
+
+### Дополнительный раздел
+
+**Задания**
+- [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)
 
 ### Вспомогательные источники
 
