@@ -14,8 +14,8 @@
 - [Чистый javascript.Классы](https://habr.com/ru/post/319804/)
 - [ES6 классы - статья 2](http://jsraccoon.ru/es6-classes)
 - [Документация Определение классов](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Classes)
-- [ES6: Классы](https://www.youtube.com/watch?v=yBNd-0dO1u8)
-- [JavaScript Classes Tutorial](https://www.youtube.com/watch?v=2ZphE5HcQPQ)
+- [Видео - ES6: Классы](https://www.youtube.com/watch?v=yBNd-0dO1u8)
+- [Видео - JavaScript Classes Tutorial](https://www.youtube.com/watch?v=2ZphE5HcQPQ)
 
 **Дополнительно**
 
