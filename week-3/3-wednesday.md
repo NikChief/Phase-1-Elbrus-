@@ -1,17 +1,16 @@
 ## Среда
 
-### Работа с файлами, парсинг csv
+### Асинхронность
 ### Основной раздел
 
 **Задания**
-- [Cookies and Ovens](../../../../cookies-and-ovens-challenge)
+- [async/await]()
 - [Бистро Берни](../../../../algorithms-and-oo-checkpoint-challenge)
 
 
 ### Дополнительный раздел
 
 **Задания**
-- [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)
 
 ### Вспомогательные источники
 
