@@ -3,6 +3,8 @@
 ### SQL
 ### Основной раздел
 
+*Checkpoint Challenge #2 (~45min)*
+
 **Задания**
 1. [Sql Tutor](https://spicy-chipmunk-82.localtunnel.me/)
 
