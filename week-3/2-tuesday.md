@@ -4,6 +4,7 @@
 ### Основной раздел
 
 **Задания**
+- [Orange Tree 1: Just Oranges](../../../../orange-tree-1-just-oranges-challenge)
 - [Orange Tree 2: Groves](../../../../orange-tree-2-groves-challenge)
 - [Cookies and Ovens](../../../../cookies-and-ovens-challenge)
 
