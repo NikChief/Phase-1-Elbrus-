@@ -1,16 +1,20 @@
 ## Среда
 
-### Асинхронность
+### Работа с файлами, парсинг
 ### Основной раздел
 
 **Задания**
-- [async/await]()
-- [Бистро Берни](../../../../algorithms-and-oo-checkpoint-challenge)
+- [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)
+- [Cookies and Ovens](../../../../cookies-and-ovens-challenge)
 
 
 ### Дополнительный раздел
 
 **Задания**
+- [Terrain Game Board](../../../../js-game-board)
+- [Labyrinth](../../../../labyrinth-challenge)
+- [Бистро Берни](../../../../algorithms-and-oo-checkpoint-challenge)
+
 
 ### Вспомогательные источники
 
