@@ -11,9 +11,9 @@
 ### Дополнительный раздел
 
 **Задания**
+- [Бистро Берни](../../../../algorithms-and-oo-checkpoint-challenge)
 - [Terrain Game Board](../../../../js-game-board)
 - [Labyrinth](../../../../labyrinth-challenge)
-- [Бистро Берни](../../../../algorithms-and-oo-checkpoint-challenge)
 
 
 ### Вспомогательные источники
