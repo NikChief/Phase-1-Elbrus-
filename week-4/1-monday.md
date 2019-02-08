@@ -11,5 +11,4 @@
 
 ### Вспомогательные источники
 
-- [Node.js MySQL Insert Into шпаргалка ENG](https://www.w3schools.com/nodejs/nodejs_mysql_insert.asp)
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
