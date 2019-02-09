@@ -10,7 +10,7 @@ sudo apt update
 sudo apt install postgresql postgresql-contrib
 
 ```
-
+- [Основной Sql тренер](https://sql-tutor.codingbootcamp.ru/)
 - [тренер sql zoo](https://sqlzoo.net/wiki/SELECT_basics)
 
 **Review**
