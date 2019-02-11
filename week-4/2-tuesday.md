@@ -6,7 +6,7 @@
 ### Основной раздел
 
 **Задания**
-1. [poll-database-design-challenge](../../../../poll-database-design-challenge)
+1. [Разработка БД для онлайн-голосования](../../../../core-sql-poll)
 2. [voting-schema](../../../../voting-schema)
 3. [university-course-database-design-challenge](../../../../university-course-database-design-challenge)
 4. [sql-voting-result](../../../../sql-voting-result)
