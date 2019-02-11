@@ -10,7 +10,7 @@
 2. [voting-schema](../../../../voting-schema)
 3. [university-course-database-design-challenge](../../../../university-course-database-design-challenge)
 4. [sql-voting-result](../../../../sql-voting-result)
-5. [Student Roster Schema](../../../../1-student-roster-db-from-schema-challenge)
+5. [Напишите свою ORM](../../../../core-sql-js-handmade-orm)
 
 
 
