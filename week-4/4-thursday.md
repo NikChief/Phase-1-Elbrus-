@@ -12,4 +12,5 @@
 
 ### Вспомогательные источники
 
-- http://docs.sequelizejs.com/manual/tutorial/associations.html
+- [thinking-documents](https://www.mongodb.com/blog/post/thinking-documents-part-1?jmp=docs)
+- [Презентация](https://www.mongodb.com/presentations/webinar-back-to-basics-thinking-in-documents)
