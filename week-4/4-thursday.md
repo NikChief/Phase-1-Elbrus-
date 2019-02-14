@@ -1,11 +1,12 @@
-## Среда
+## Четверг
 
-### Sequelize и ассоциации  
+### Mongoose  
 ### Основной раздел
 
 **Задания**
-1. [Sequelize - Table](../../../../sequelize-intro-creating-table-challenge)
-2. [Sequelize - Association - Hotels ](../../../../seq-hotels)
+- [Mongoose intro](../../../../mongo-intro)
+- [Отели](../../../../core-mongoose-hotels)
+- [Скачки](../../../../core-mongo-associations-races)
 
 
 
