@@ -11,7 +11,14 @@
 
 *Изучите материал по следующим ссылкам:*
 
+*Express*
 - [!Установить express](http://expressjs.com/ru/starter/installing.html)
+- [Посмотрите видео по Express](https://www.youtube.com/playlist?list=PL0lO_mIqDDFX0qH9w5YQIDV6Wxy0oawet)
+
+*Шаблонизаторы*
+- [Шаблонизатор - Википедия](https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80)
+- [Handlebars docs](https://handlebarsjs.com)
+- [Handlebars. Руководство на habrahabr](https://habr.com/ru/post/273581/)
 
 **Дополнительно**
 
