@@ -18,3 +18,4 @@
 ### Вспомогательные источники
 
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+- [https://jsman.ru/mongo-book/](https://jsman.ru/mongo-book/index.html)
