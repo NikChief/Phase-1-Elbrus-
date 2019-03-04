@@ -8,7 +8,7 @@
 
 **Задания**
 
-1. [Learn CSS Layout](http://learnlayout.com) **Very important**
+1. [Learn CSS Layout](http://ru.learnlayout.com/) **Very important**
 2. [CSS - базовая стилизация формы](../../../../core-css-form-styling) (Опционально - eng)
 3. [CSS - Газета Эльбрус](../../../../core-css-newspaper)
 4. [CSS - Диаграмма](../../../../core-css-diagramm) (поработайте с `border`)
