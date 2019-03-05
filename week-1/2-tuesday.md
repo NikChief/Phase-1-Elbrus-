@@ -8,20 +8,20 @@
 
 **Задания**
 
-1. [Learn CSS Layout](http://ru.learnlayout.com/) **Very important**
-2. [CSS - базовая стилизация формы](../../../../core-css-form-styling)
-3. [CSS - Газета Эльбрус](../../../../core-css-newspaper)
-4. [CSS - Диаграмма](../../../../core-css-diagramm) (поработайте с `border`)
+- [Learn CSS Layout](http://ru.learnlayout.com/) **Very important**
+- [CSS - базовая стилизация формы](../../../../core-css-form-styling)
+- [CSS - Газета Эльбрус](../../../../core-css-newspaper)
+- [CSS - Диаграмма](../../../../core-css-diagramm) (поработайте с `border`)
 
 
 ### Дополнительный раздел
 
 **Задания:**
 
-1. Изучите [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) и [Grid](https://www.w3schools.com/css/css_grid.asp)
-2. [CSS - Обратная связь](../../../../extra-css-feedback)
-3. [CSS - Лошадки](../../../../extra-css-horses)
-4. [CSS - Социальные ссылки](../../../../extra-css-social)
+- Изучите [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) и [Grid](https://www.w3schools.com/css/css_grid.asp)
+- [CSS - Обратная связь](../../../../extra-css-feedback)
+- [CSS - Лошадки](../../../../extra-css-horses)
+- [CSS - Социальные ссылки](../../../../extra-css-social)
 
 
 ### Вспомогательные источники
