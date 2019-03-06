@@ -17,3 +17,4 @@
 - [W3Schools JS HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
 - [Документация Mozilla](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 - [Интерактивная шпаргалка JS](https://htmlcheatsheet.com/js)
+- [Чем отличаются JavaScript и ECMAScript?](https://habr.com/ru/company/nixsolutions/blog/342904/)
