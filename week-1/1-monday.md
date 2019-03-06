@@ -21,6 +21,7 @@
 
 ### Вспомогательные источники
 
+- [VScode keyboard shortcut](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
 - [Справочник Emmet](https://webdesign-master.ru/blog/html-css/2.html)
 - [Документация Mozilla](https://developer.mozilla.org/ru/docs/Web/HTML)
 - [Шпаргалка HTML](http://www.simplehtmlguide.com/cheatsheet.php)
