@@ -4,7 +4,7 @@
 ### Основной раздел
 
 **Задания**
-- [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)
+- [Parsing Data](../../../../parsing-data-1-csv-in-csv-out-challenge)
 - [Cookies and Ovens](../../../../cookies-and-ovens-challenge)
 
 
