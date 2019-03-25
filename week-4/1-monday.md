@@ -6,8 +6,8 @@
 *Checkpoint Challenge #2 (~45min)*
 
 **Задания**
-1. [Sql Tutor](https://spicy-chipmunk-82.localtunnel.me/)
-
+- [Sql Tutor](https://spicy-chipmunk-82.localtunnel.me/)
+- [SqlZoo](https://sqlzoo.net/wiki/SELECT_basics)
 
 ### Вспомогательные источники
 
