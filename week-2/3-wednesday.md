@@ -14,8 +14,9 @@
 ### Дополнительно
 
 - [Простые числа](../../../../extra-algorithm-prime-factors)
-- [Решето Эратосфена](../../../../extra-algorithm-prime-factors-eratosthenes)
 - [Подсчет количества подмножеств](../../../../extra-algorithm-calculating-subsets-with-recursion)
+- [Решето Эратосфена](../../../../extra-algorithm-prime-factors-eratosthenes)
+
 
 ### Вспомогательные источники
 
