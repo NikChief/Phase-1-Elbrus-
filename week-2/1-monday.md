@@ -23,3 +23,4 @@
 
 - [Документация Mozilla](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 - [Интерактивная шпаргалка JS](https://htmlcheatsheet.com/js)
+- [Jasmine Documentation](https://jasmine.github.io/pages/docs_home.html)
