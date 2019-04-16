@@ -13,7 +13,6 @@
 
 - [Простые множители](../../../../extra-algorithm-prime-factors)
 - [Решето Эратосфена](../../../../extra-algorithm-prime-factors-eratosthenes)
-- [Игра Boggle 1](../../../../extra-nested-arrays-boggle-1-board-generation)
 
 **Подготовка на завтра**
 - Еще раз просмотрите [стандарт](https://github.com/leonidlebedev/javascript-airbnb) написания кода - это очень важная тема. 
