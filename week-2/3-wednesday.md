@@ -13,7 +13,6 @@
 
 ### Дополнительно
 
-- [Простые числа](../../../../extra-algorithm-prime-factors)
 - [Подсчет количества подмножеств](../../../../extra-algorithm-calculating-subsets-with-recursion)
 - [Решето Эратосфена](../../../../extra-algorithm-prime-factors-eratosthenes)
 
