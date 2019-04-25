@@ -23,5 +23,5 @@
 
 ### Вспомогательные источники
 
-- [Документация Mozilla](https://developer.mozilla.org/ru/docs/Web/JavaScript)
-- [Интерактивная шпаргалка JS](https://htmlcheatsheet.com/js)
+- [Основы работы с событиями](https://learn.javascript.ru/events-and-timing-depth)
+- [Как работает Цикл событий (Event Loop), асинхронность](https://habr.com/ru/company/ruvds/blog/340508/)
