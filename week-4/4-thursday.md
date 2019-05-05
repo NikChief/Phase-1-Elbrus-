@@ -4,9 +4,8 @@
 ### Основной раздел
 
 **Задания**
-- [Mongoose intro](../../../../mongo-intro)
-- [Отели](../../../../core-mongoose-hotels)
-- [Скачки](../../../../core-mongo-associations-races)
+- [Футболки](../../../../core-mongoose-shirts)
+- [Курсы университета](../../../../core-sql-db-schema-design-university)
 
 
 
