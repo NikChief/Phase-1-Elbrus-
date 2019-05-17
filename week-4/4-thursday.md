@@ -4,6 +4,7 @@
 ### Основной раздел
 
 **Задания**
+- [Комментарии](../../../../core-mongoose-comments)
 - [Футболки](../../../../core-mongoose-shirts)
 - [Курсы университета](../../../../core-sql-db-schema-design-university)
 
