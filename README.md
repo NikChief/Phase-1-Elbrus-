@@ -32,8 +32,11 @@ Time    | Activity
 ## Дополнительное 
 
 - [Правила школы](https://github.com/Elbrus-Bootcamp/phase-1/blob/master/resources/rules.md)
+
+<!--
 - [Student handbook](https://github.com/Elbrus-Bootcamp/phase-1/blob/master/resources/student-handbook.md)
 - [Challenge Workflow](https://github.com/Elbrus-Bootcamp/phase-1/blob/master/resources/how_to_work_a_challenge.md)
 - [Pair Check-in Tips](https://github.com/Elbrus-Bootcamp/phase-1/blob/master/resources/pair-checkin-tips.md)
+-->
 
 
