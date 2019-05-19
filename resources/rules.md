@@ -1,51 +1,53 @@
-# Правила
+Памятка для участников Bootcamp 
+Главная задача информации, представленной здесь - напомнить об основных правилах. 
 
-The content here is intended to help you remember and follow the basic rules of engagement at Elbrus Bootcamp. Remember that all staff are here to help you at any time. Look to your accountability buddies for support and guidance as well.
+##Отвлекающие факторы##
+Elbrus Bootcamp - зона digital-detox. Мы придерживаемся планирования рабочего времени по принципу "maker's schedule" (подробнее: http://www.paulgraham.com/makersschedule.html).
 
 
-Ok, onwards with the rules.
+Никаких телефонов, проверки электронной почты, facebook, twitter, instagram, телевизора, фильмов, роликов на youtube, и потребления любой информации из внешнего мира в течение всего периода обучения. 
+Нарушение правила не останется незамеченным (если серьезно, это негативно влияет на образовательный процесс). Систематические нарушители будут наказаны исполнением импровизированного танца перед всей группой.
+Хотите побыть в уединении? Воспользуйтесь наушниками. Таким образом, если видите студента или преподавателя в наушниках, не нарушайте личное пространство другого. Есть лишь одно оправдание - что-то загорелось, вы пытались потушить, но не смогли и вам нужна помощь друга. 
 
-## Distractions
 
-Elbrus Bootcamp is a distraction-free zone. We are all on [maker's schedule](http://www.paulgraham.com/makersschedule.html).
+##Пропуски занятий##
+** Что делать, если я опаздываю / пропускаю учебный день / 
+болею / не хочу приходить? **
 
-**No phones, email, facebook, twitter, tv, movies, hulu, netflix, etc or outside life during core hours.** You break this rule, we scowl at you (more seriously, you damage the quality of the learning environment). Repeat offenders might be asked to do an interpretive dance for the entire cohort.
 
-If you want some private space, put some headphones on. If you see a student or a teacher with headphones on, do not distract them unless something is on fire, and you've already tried to put it out and failed.
+Студенты Elbrus Bootcamp руководствуются тремя ценностями: честность, доброта и самосохранение. В случае болезни или форс-мажорных обстоятельств, которые требуют личного участия, сообщите об отсутствии студентам Elbrus или преподавателям.
 
-## Absenteeism
+Допустимо пропустить один учебный день. Но вы должны понимать:
+Это увеличивает вероятность того, что придеться пройти весь курс с начала.
+Вы можете прослушать Фазу еще один раз. Однако неудовлетворительная посещаемость повторного курса означает автоматическое отчисление.
 
-**What if I'm late / skip a day / sick / don't want to come in?**
 
-Elbrus Bootcamp requires all students to make [3 agreements: integrity, kindness and whole self](./three-agreements.md). If you are sick or have an emergency appointment that cannot be missed, it is your responsibility to notify your accountability buddies first and follow up with your teacher(s) to make sure they are aware of your necessary absence.
 
-It is permissible to miss a day of class. However, you should be made aware that:
+##Надлежащее использование пространства##
+Держите рабочий стол в чистоте.
+Сохраняйте пространство кампуса в опрятном виде. К нам часто заходят потенциальные работодатели и представители профессионального сообщества.
+Мойте за собой посуду!
+Используйте сменную обувь!
+Уходя последними, выключите свет, закрывайте двери и окна.
 
-- This increases the likelihood that you will need to repeat the phase.
-- You can only repeat a phase once. A second repeat is an automatic leave.
+Тем не менее, вы можете переставлять мебель, устраивать киносеансы и, вообще, делать пространство своим. Но помните о главном правиле кэмпа - оставляйте кампус после себя лучше, чем он был до вас. Однако, если возможно, в конце обучения верните мебель на место. И уберите за собой, если создали беспорядок.
 
-## Appropriate Use of Space
 
-- Keep your desk clean.
-- Keep the space presentable for potential employers and the tech community.
-- Do the dishes!
-- Do the smenka!
-- If you are the last to leave, turn off the lights and make sure all the doors/windows are shut.
 
-Other than that, you can rearrange the furniture, do movie nights, and generally make the space your own.
+##Философия сообщества##
+Мы прилагаем максимум усилий, чтобы сделать среду DBC безопасной и комфортной для всех. Поэтому есть некоторые обязательные правила для тех, кто хочет стать частью сообщества Elbrus Bootcamp:
 
-However, follow **the campsite rule**, leave the space better than you found it. When possible, return furniture to where it was set when you entered the space, and clean the space even if you did not create the mess.
 
-## Community Integrity
+Быть в кампусе утром и после обеда, по удару гонга.
+Находиться в Dev Bootcamp в течение всего времени обучения, и сообщать об отсутствии или опоздании.
+Оставаться на связи с группой, когда опаздываете или отсутствуете.
+Быть добрыми и вежливыми с персоналом бизнес-центра. Мы здесь в гостях и должны уважать пространство.
+Не принимать пищу в непосредственной близости от компьютера.
+Не употреблять алкогольные напитки без разрешения администрации.
+Также, в стенах кампуса запрещена громкая музыка без согласования с командой Elbrus Bootcamp.
 
-Elbrus Bootcamp is a community and we keep the [three agreements](./three-agreements.md) in order to make this a safe and optimal learning environment for all.
+У студентов первой ступени есть некоторые обязанности:
+Посещать занятия йогой каждую неделю.
+Содержать кампус в чистоте для участников следующего курса, гостей и приглашенных спикеров.
 
-However, there are some non-negotiable rules about being a part of the Elbrus Bootcamp community:
-
-- Be in the space, on time, when the gong rings in the morning and after lunch.
-- Be here for all of core hours and communicate any necessary absence or lateness.
-- Communicate with your accountability group when you are struggling, late, or absent.
-- Please be kind and courteous to the building staff. We are their guests, and it is all of our responsibility to be good guests.
-- No food allowed near the computers.
-- No alcohol allowed at Elbrus Bootcamp unless authorized by staff.
-- No loud music allowed at Elbrus Bootcamp unless authorized by staff.
+P.S. Вся команда Elbrus Bootcamp готова помочь в любое время и сделать ваше пребывание максимально комфортным. Также, смело обращайтесь за советом и поддержкой к другим участникам кэмпа.
