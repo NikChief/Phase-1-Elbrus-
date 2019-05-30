@@ -18,8 +18,8 @@
 **Задачи на JS**
 
 
-- [JS Racer](../../../../core-algorithm-racer-1)
 - [Поиск слова](../../../../core-algorithm-word-search)
+- [JS Racer](../../../../core-algorithm-racer-1)
 
 ### Вспомогательные источники
 - [Регулярные выражения - методы](https://learn.javascript.ru/regular-expressions-javascript)
