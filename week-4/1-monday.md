@@ -6,6 +6,11 @@
 
 **Задания**
 
+- [fs на промисах](../../../../)
+- [Бумеранг](../../../../core-async-boomerang)
+- [JS Racer](../../../../core-algorithm-racer-1) - напишите в стиле ООП.
+
+
 ### Вспомогательные источники
 - [Симулятор Event Loop](http://latentflip.com/loupe)
 
