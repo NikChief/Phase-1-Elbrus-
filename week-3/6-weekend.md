@@ -4,14 +4,7 @@
 
 **Задания**
 
-- Установите PostgreSQL на свой ноутбук и убедитесь, что он работает.
-```
-sudo apt update
-sudo apt install postgresql postgresql-contrib
-```
-- Установите [pgadmin](https://www.pgadmin.org/)
-- [Основной Sql тренер](https://sql-tutor.codingbootcamp.ru/)
-- [тренер sql zoo](https://sqlzoo.net/wiki/SELECT_basics) опционально если сделали основной тренер
+-
 
 **Review**
 - просмотреть все основные задания за эту неделю и убедитесь что вы разобрались в теме OOPJS
