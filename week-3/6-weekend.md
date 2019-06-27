@@ -5,7 +5,6 @@
 **Задания**
 
 - Установите MongoDB:
-Команды для Ubuntu:
 
 ``` bash
 sudo apt update
