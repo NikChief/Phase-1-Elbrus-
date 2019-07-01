@@ -32,6 +32,7 @@ Time    | Activity
 ## Дополнительное 
 
 - [Правила школы](https://github.com/Elbrus-Bootcamp/phase-1/blob/master/resources/rules.md)
+- [Советы по парному программированию](https://github.com/Elbrus-Bootcamp/phase-1/blob/master/resources/pair-checkin-tips.md)
 
 <!--
 - [Student handbook](https://github.com/Elbrus-Bootcamp/phase-1/blob/master/resources/student-handbook.md)
