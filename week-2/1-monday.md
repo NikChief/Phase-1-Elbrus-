@@ -5,12 +5,12 @@
 
 **Задания**
 
-- [Siri](../../../../core-js-base-siri)
 - [Пианино](../../../../core-js-base-piano)
-- [Git Branching](https://learngitbranching.js.org)
+- [Siri](../../../../core-js-base-siri)
 
 **Дополнительные задания**
 
+- [Git Branching](https://learngitbranching.js.org)
 - [Простые множители](../../../../extra-algorithm-prime-factors)
 - [Решето Эратосфена](../../../../extra-algorithm-prime-factors-eratosthenes)
 
