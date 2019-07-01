@@ -1,51 +1,53 @@
-# Pair Programming
+# Парное программирование
 
-Pair programming is an agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer, pointer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently.
+Парное программирование - метод разработки программного обеспечения, при котором два программиста работают совместно на одной рабочей станции. Один - "разработчик" пишет код, другой - "наблюдатель", проверяет каждую строку по мере ввода. Время от времени программисты меняются ролями.
 
-## Guidelines for Effective Pair Programming
+## Рекомендации по эффективному парному программированию
 
-####  Beginning Pairing
+Создание технического партнерства
+1. Знакомство, выстраивание контакта:
+Пообщайтесь с партнёром на общие темы: "Как дела? Как настроение?"
+Выясните есть ли что-то, что может помешать совместной работе?
 
-1. Mini Check-in
-  - Talk with your pair about how they are feeling that day/week. 
-  - Is there anything going on in your life that may affect your pairing?
-  
-2. Pairing and Learning Styles: 
-  - Choose driver and navigator roles.  Decide on time intervals for switching.
-  - What factors contributed to your best pairing session? 
-  - What factors contributed to your worst pairing session?
-  - How do you learn and engage with the challenges?
+2. Алгоритм парного партнерства и совместного обучения:
+Распределите роли "разработчика" и "наблюдателя". Определите временные интервалы для смены зон ответственности.
+Какие факторы повысят эффективность совместной работы?
+Что может повлиять на партнерство негативно?
+Как обучаетесь и справляетесь с поставленными задачами обычно?
 
-3. Discuss your education goal today. 
-  - What are your technical goals today?  Is there a particular subject you'd like to understand?
-  - Is there a goal of getting better with an aspect of pairing?
-  
-4. Talk about skill differences. 
-  - How is your command of the days material? 
-  - Taking the risk to name skill differences up front allows the pair to navigate these differences so neither pair     feels left disengaged with the material.
-  
-5. Agree on ways to celebrate success and deal effectively w/ frustration and blockages (and follow through!)
+3. Совместное планирование:
+Определите главные технические цели текущего дня. Или конкретную область знаний, которую необходимо исследовать.
+Работая вместе вы достигните результата быстрее и эффективнее, чем действую в одиночку?
 
-#### During Pairing
+4. Поиск сильных и слабых сторон:
+Как ваша пара оценивает собственные силы в решении поставленной задачи?
+Если обозначить разные уровни знаний в начале работы и распределить зоны ответственности, каждый будет востребован и вовлечен.
 
-1.  Close email, chats and turn off notifications.
-2.  Using a journal or whiteboard to jot down notes can be a great tool. It allows you to continue pairing while keeping a log of questions you may want to ask an instructor later.
-3.  Make sure you are bouncing back and forth between driver-navigator roles and practising the Pomodoro technique.
-4.  Avoid non-essential conversation with others while you and your pair are working. However, you and your pair may want to check in with other groups to share knowledge and discuss strategies.
-6.  Check in at regular intervals throughout the day to make sure above agreements are holding.
-7.  If you find yourself getting stuck or spending a long time on a challenge, check-in with an instructor and determine if you should move on.
-
-Pairing is a huge part of your DBC experience, and it's important to think of pairing as a learnable skill, just like any technical proficiency you're working on. It can be very hard to become a good pair and ask others to do the same, so it's best to start practicing these habits early, and stick with them each day.
-
-That said, sometimes the difficulty comes from a toxic interpersonal dynamic.
-
-If you are finding that a specific pair dynamic is so difficult that it is actively hindering your ability to learn anything at all, please let your cohort lead know right away.
+5. Планирование исхода событий:
+Подумайте как, отпразднуете успех и разработайте план на случай неудач и затруднений (и, конечно, идите до конца!)
 
 
+Важные правила парного программирования
 
-#### Follow Up
+1. Закройте социальные сети, мессенджеры, электронную почту и отключите все уведомления.
 
-1. Give Feedback  
-  - Make it actionable, specific and kind.
-  - Remember to distinguish between impact and intention.  (Don't assume your pair's intention when describing the       impact it had on you).
-  - Be authentic and be specific about positive feedback. 
+2. Используйте блокноты, доски и флипчарты для записи заметок, это отличный инструмент. 
+
+3. Дискутируйте, решайте промежуточные задачи, фиксируйте вопросы в процесс совместной работы, чтобы позже задать их преподавателю.
+
+4. Не забывайте меняться ролями и практикуйте технику "Pomodoro" (25 минут - активность, 5 минут - отдых). 
+
+5. Старайтесь избегать ненужных разговоров с одногруппниками во время работы. Однако, вы можете присоединиться к другим командам, поделиться знаниями и обсудить стратегии решения задач.
+
+6. Периодически проверяйте выполнение вышеперечисленных пунктов, инспектируя личную эффективность. 
+
+7. Если застряли на месте или потеряли много времени на определенном этапе, обсудите с инструктором способы выхода из тупика. 
+
+Совместная работа - огромная часть опыта, который можно получить в DBC. Парное программирование - важный образовательный навык, такой же как любой технический. Работать в партнерстве не просто, поэтому переходите к практике как можно быстрее и прикладывайте ежедневные усилия. 
+Однако, возможны трудности из-за особенностей характера и личных качеств участников. Поэтому, если чувствуете, что работа с партнером чрезвычайно сложна и мешает процессу обучения, пожалуйста, сообщите об этом преподавателю.
+
+Общие рекомендации. Обратная связь 
+Доносите идеи, указывайте на ошибки, давайте рекомендации конструктивно, конкретно и экологично.
+Уважайте вклад партнера в процесс решения поставленных задач.
+Будьте искренни и предметны, давая положительную обратную связь.
+
