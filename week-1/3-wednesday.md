@@ -16,7 +16,6 @@
 **Задания**
 
 - [JS base - Римские цифры](../../../../core-js-base-roma-numberable)
-- [JS base - Talk with Siri](../../../../core-js-base-siri)
 
 
 ### Вспомогательные источники
