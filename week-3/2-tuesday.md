@@ -12,7 +12,6 @@
 ### Дополнительный раздел
 
 **Задания**
-- [Terrain Game Board](../../../../js-game-board)
 - [Labyrinth](../../../../labyrinth-challenge)
 
 
