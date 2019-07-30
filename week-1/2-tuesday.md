@@ -9,7 +9,7 @@
 **Задания**
 
 - [Изучение CSS Разметки](http://ru.learnlayout.com/) **Важно! Выполнить в первую очередь**
-- [CSS - Диаграмма](../../../../core-css-diagramm) (поработайте с `border`)
+- [CSS - Диаграмма](../../../../core-css-diagramm)
 - [CSS - Базовая стилизация формы](../../../../core-css-form-styling)
 - [CSS - Газета Эльбрус](../../../../core-css-newspaper)
 
