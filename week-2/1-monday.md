@@ -5,7 +5,7 @@
 
 **Задания**
 
-- [Каталог товаров] (../../../../js-core-catalog)
+- [Каталог товаров] (https://github.com/Elbrus-Bootcamp/js-core-catalog)
 - [Пианино](../../../../core-js-base-piano)
 
 **Дополнительные задания**
