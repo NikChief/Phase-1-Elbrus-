@@ -4,9 +4,9 @@
 ### Основной раздел
 
 **Задания**
-- [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)
+- [FS Progressbar](../../../..//fs-files-progressbar)
 - [ToDos List Js](../../../../to-do-list-JS)
-
+- [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)
 
 
 ### Дополнительный раздел
