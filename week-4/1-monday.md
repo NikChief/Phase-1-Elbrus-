@@ -4,6 +4,8 @@
 ### Асинхронность: Event Loop, Promises, aync/await
 ### Основной раздел
 
+*Checkpoint Challenge #2 (~45min)*
+
 **Задания**
 
 - [fs на промисах](../../../../core-async-promisify-fs)
