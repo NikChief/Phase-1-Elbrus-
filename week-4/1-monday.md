@@ -15,6 +15,7 @@
 
 ### Вспомогательные источники
 - [Симулятор Event Loop](http://latentflip.com/loupe)
+- [Promise doc](https://learn.javascript.ru/promise)
 
 **Видео:**
 - [What the heck is the event loop?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
