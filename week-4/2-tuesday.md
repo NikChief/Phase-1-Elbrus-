@@ -7,6 +7,7 @@
 **Задания**
 - [Mongo-cli intro](../../../../mongo-cli-intro)
 - [Скачки - выполнять только Релиз 0](../../../../core-mongo-associations-races)
+- [Cookies and Ovens](../../../../cookies-and-ovens-challenge)
 
 ### Вспомогательные источники
 
