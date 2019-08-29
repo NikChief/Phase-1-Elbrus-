@@ -5,8 +5,7 @@
 
 **Задания**
 - [Parsing Data](../../../../parsing-data-1-csv-in-csv-out-challenge)
-- [Cookies and Ovens](../../../../cookies-and-ovens-challenge)
-
+- [Поиск слов в файле](../../../../words-in-a-file-challenge)
 
 ### Дополнительный раздел
 
