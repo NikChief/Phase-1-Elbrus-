@@ -6,8 +6,8 @@
 *Checkpoint Challenge #1 (~45min)*
 
 **Задания**
-1. [Велосипеды и станции](../../../../oojs-bikes-and-stations-challenge)
-2. [Orange Tree 1: Just Oranges](../../../../orange-tree-1-just-oranges-challenge)
+- [Велосипеды и станции](../../../../oojs-bikes-and-stations-challenge)
+- [Orange Tree 1: Just Oranges](../../../../orange-tree-1-just-oranges-challenge)
 
 ### Дополнительно:
 *Если ты не выполнял(а) это задание - можешь сделать его сейчас. Если выполнял(а) - перепиши его в Объектно-Ориентированном стиле.*
