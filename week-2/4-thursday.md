@@ -24,3 +24,6 @@
 ### Вспомогательные источники
 - [Регулярные выражения - методы](https://learn.javascript.ru/regular-expressions-javascript)
 - [Регулярные выражения - онлайн тестер](https://regex101.com)
+
+### Подготовка на завтра 
+-[Работа с git](https://github.com/Elbrus-Bootcamp/git-steps/blob/master/README.md)
