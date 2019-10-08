@@ -26,4 +26,4 @@
 - [Регулярные выражения - онлайн тестер](https://regex101.com)
 
 ### Подготовка на завтра 
--[Работа с git](https://github.com/Elbrus-Bootcamp/git-steps/blob/master/README.md)
+- [Работа с git](https://github.com/Elbrus-Bootcamp/git-steps/blob/master/README.md)
