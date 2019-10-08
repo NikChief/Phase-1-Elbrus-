@@ -22,8 +22,9 @@
 - [JS Racer](../../../../core-algorithm-racer-1)
 
 ### Вспомогательные источники
-- [Регулярные выражения - методы](https://learn.javascript.ru/regular-expressions-javascript)
+- [Регулярные выражения - методы](https://learn.javascript.ru/regexp-methods)
 - [Регулярные выражения - онлайн тестер](https://regex101.com)
+- [Визуализация регулярных выражений. Пример валидации ICQ.](https://www.debuggex.com/r/-p2UCw7V4oK2IkL8)
 
 ### Подготовка на завтра 
 - [Работа с git](https://github.com/Elbrus-Bootcamp/git-steps/blob/master/README.md)
