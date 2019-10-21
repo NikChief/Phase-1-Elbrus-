@@ -11,8 +11,10 @@
   
 ## Парное программирование 
 
-- [Пары](https://github.com/Elbrus-Bootcamp/phase-1/blob/master/resources/pairs.md)
-
+- [Пары](https://elbrus-scheduler.herokuapp.com)
+<!-- 
+  - [Пары](https://github.com/Elbrus-Bootcamp/phase-1/blob/master/resources/pairs.md)
+-->
 
 ## Расписание 
 
