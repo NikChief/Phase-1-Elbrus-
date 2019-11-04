@@ -9,8 +9,8 @@
 **Задания**
 
 - [fs на промисах](../../../../core-async-promisify-fs)
-- [Бумеранг](../../../../core-async-boomerang)
 - [JS Racer](../../../../core-algorithm-racer-1) - напишите в стиле ООП.
+- [Бумеранг](../../../../core-async-boomerang)
 
 
 ### Вспомогательные источники
