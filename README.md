@@ -11,6 +11,8 @@
   
 ## Парное программирование 
 
+jkhkjhkjhl
+
 - [Пары](https://elbrus-scheduler.herokuapp.com)
 <!-- 
   - [Пары](https://github.com/Elbrus-Bootcamp/phase-1/blob/master/resources/pairs.md)
