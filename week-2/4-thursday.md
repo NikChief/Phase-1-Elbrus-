@@ -1,30 +1,26 @@
 ## Четверг
-### Регулярные выражения
 
+### Асинхронность, argv
 ### Основной раздел
 
-*До 15:00:*
-**Задачи на регулярные выражения**
+**Задания**
+- [FS Progressbar](../../../..//fs-files-progressbar)
+- [ToDos List Js](../../../../to-do-list-JS)
+- [Parsing Data Argv](../../../../core-js-parsing-data-argv)
 
 
-- [Регулярные выражения](../../../../core-regular-expressions)
-- Самостоятельная практика по регулярным выражениям
-    - [Онлайн-RegEx-Кроссворды](https://regexcrossword.com/)
-    - [Онлайн-RegEx-Задачи](https://www.hackerrank.com/domains/regex)
+### Дополнительный раздел
+
+**Задания**
+- [Бистро Берни](../../../../algorithms-and-oo-checkpoint-challenge)
+- [Labyrinth](../../../../labyrinth-challenge)
 
 
-*После 15:00:*
+### Материалы на завтра 
+- [The Model-View-Controller ENG](../../../../mvc)
 
-**Задачи на JS**
-
-
-- [Поиск слова](../../../../core-algorithm-word-search)
-- [JS Racer](../../../../core-algorithm-racer-1)
 
 ### Вспомогательные источники
-- [Регулярные выражения - методы](https://learn.javascript.ru/regexp-methods)
-- [Регулярные выражения - онлайн тестер](https://regex101.com)
-- [Визуализация регулярных выражений. Пример валидации ICQ.](https://www.debuggex.com/r/-p2UCw7V4oK2IkL8)
 
-### Подготовка на завтра 
-- [Работа с git](https://github.com/Elbrus-Bootcamp/git-steps/blob/master/README.md)
+- [Основы работы с событиями](https://learn.javascript.ru/events-and-timing-depth)
+- [Как работает Цикл событий (Event Loop), асинхронность](https://habr.com/ru/company/ruvds/blog/340508/)

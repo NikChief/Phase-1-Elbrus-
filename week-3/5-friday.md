@@ -1,6 +1,5 @@
 ## Пятница
 
-### Групповой проект
-### Flashcards
+**Задания**
 
-- [Js Flashcards 1 Single Deck](../../../../flashcards-1-single-deck-challenge)
+- [TODO list](../../../../todo-list-challenge) - Групповой проект

@@ -1,26 +1,30 @@
 ## Четверг
-
-
-### Document Object Model
+### Регулярные выражения
 
 ### Основной раздел
 
+*До 15:00:*
+**Задачи на регулярные выражения**
 
-**Задания**
-- [Document Object Model - 1](../../../../core-js-dom)
-- [Document Object Model - 2](../../../../core-js-dom-more)
-- _Code-style_ - теперь внимательно просмотрите свой код, убедитесь что любой разработчик с первого взгляда сможет в нем разобраться. Обратите внимание на отступы, имена переменных, соответствие [стандарту](https://github.com/leonidlebedev/javascript-airbnb)
 
-### Дополнительный раздел
+- [Регулярные выражения](../../../../core-regular-expressions)
+- Самостоятельная практика по регулярным выражениям
+    - [Онлайн-RegEx-Кроссворды](https://regexcrossword.com/)
+    - [Онлайн-RegEx-Задачи](https://www.hackerrank.com/domains/regex)
 
-**Задания**
 
-- [JS base - Talk with Siri](../../../../core-js-base-siri)
+*После 15:00:*
 
+**Задачи на JS**
+
+
+- [Поиск слова](../../../../core-algorithm-word-search)
+- [JS Racer](../../../../core-algorithm-racer-1)
 
 ### Вспомогательные источники
+- [Регулярные выражения - методы](https://learn.javascript.ru/regexp-methods)
+- [Регулярные выражения - онлайн тестер](https://regex101.com)
+- [Визуализация регулярных выражений. Пример валидации ICQ.](https://www.debuggex.com/r/-p2UCw7V4oK2IkL8)
 
-- [W3Schools JS HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
-- [Документация Mozilla](https://developer.mozilla.org/ru/docs/Web/JavaScript)
-- [Интерактивная шпаргалка JS](https://htmlcheatsheet.com/js)
-- [Чем отличаются JavaScript и ECMAScript?](https://habr.com/ru/company/nixsolutions/blog/342904/)
+### Подготовка на завтра 
+- [Работа с git](https://github.com/Elbrus-Bootcamp/git-steps/blob/master/README.md)

@@ -2,15 +2,24 @@
 
 ### Основное
 
+**Обзор**
+
+- Просмотри все темы, которые были в течение недели. Все ли ты усвоил(а)? Пробегись еще раз по всем заданиям за неделю и разбери их.
+- Основные задания за неделю:
+  - [Вложенные массивы - 1](https://github.com/Elbrus-Bootcamp/core-js-nested-arrays)
+  - [Расчет факториала](https://github.com/Elbrus-Bootcamp/core-algorithm-factorial)
+  - [JS racer](https://github.com/Elbrus-Bootcamp/core-algorithm-racer-1)
+
 **Задания**
 
-- Ознакомьтесь с руководством по написанию кода [Руководство по написанию JavaScript кода от Airbnb](https://github.com/leonidlebedev/javascript-airbnb)    
-- Почитайте про flexbox в CSS, попрактикуйтесь, например в этой небольшой игре [Flex Defence](http://www.flexboxdefense.com/)
+*Изучи материал по следующим ссылкам:*
+
+- [Чистый javascript.Классы](https://habr.com/ru/post/319804/)
+- [ES6 классы - статья 2](http://jsraccoon.ru/es6-classes)
+- [Документация Определение классов](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Classes)
+- [Видео - ES6: Классы](https://www.youtube.com/watch?v=yBNd-0dO1u8)
+- [Видео - JavaScript Classes Tutorial](https://www.youtube.com/watch?v=2ZphE5HcQPQ)
 
 **Дополнительно**
 
-- [Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
-- [Developing a Growth Mindset with Carol Dweck](https://youtu.be/hiiEeMN7vbQ)
-- [grid-системой в CSS. ](https://cssgridgarden.com/#ru)
-- [Подборка книг по JavaScript](https://tproger.ru/books/advanced-javascript-books)
-- [ENG JavaScript  for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) 3 hours 
+- [Нужны ли в JavaScript классы?](https://habr.com/post/175029/)

@@ -1,26 +1,17 @@
 ## Четверг
 
-### Асинхронность, argv
+### Mongoose  
 ### Основной раздел
 
 **Задания**
-- [FS Progressbar](../../../..//fs-files-progressbar)
-- [ToDos List Js](../../../../to-do-list-JS)
-- [Parsing Data Argv](../../../../core-js-parsing-data-argv)
+- [Комментарии](../../../../core-mongoose-comments)
+- [Футболки](../../../../core-mongoose-shirts)
+- [Курсы университета](../../../../core-sql-db-schema-design-university)
 
-
-### Дополнительный раздел
-
-**Задания**
-- [Бистро Берни](../../../../algorithms-and-oo-checkpoint-challenge)
-- [Labyrinth](../../../../labyrinth-challenge)
-
-
-### Материалы на завтра 
-- [The Model-View-Controller ENG](../../../../mvc)
 
 
 ### Вспомогательные источники
-
-- [Основы работы с событиями](https://learn.javascript.ru/events-and-timing-depth)
-- [Как работает Цикл событий (Event Loop), асинхронность](https://habr.com/ru/company/ruvds/blog/340508/)
+- [mongoose guide](https://mongoosejs.com/docs/guide.html)
+- [thinking-documents](https://www.mongodb.com/blog/post/thinking-documents-part-1?jmp=docs)
+- [Презентация](https://www.mongodb.com/presentations/webinar-back-to-basics-thinking-in-documents)
+- [Когда ссылка, когда вложенность? (Embed or refer?)](https://blog.couchbase.com/data-modelling-when-embed-or-refer/)

@@ -1,25 +1,20 @@
 ## Понедельник
 
+### Основы ООП: Классы
 ### Основной раздел
-### JavaScript & DOM
+
+*Checkpoint Challenge #1 (~45min)*
 
 **Задания**
+- [Велосипеды и станции](../../../../oojs-bikes-and-stations-challenge)
+- [Orange Tree 1: Just Oranges](../../../../orange-tree-1-just-oranges-challenge)
 
-- [Пианино](../../../../core-js-base-piano)
-- [Каталог товаров](../../../../js-core-catalog)
+### Дополнительно:
+*Если ты не выполнял(а) это задание - можешь сделать его сейчас. Если выполнял(а) - перепиши его в Объектно-Ориентированном стиле.*
+- [JS Racer](../../../../js-racer-1-outrageous-fortune-challenge) *(Спроектируй правильно - у тебя должно получиться минимум 2 класса и 3 объекта. Может быть больше.)*
 
-**Дополнительные задания**
-
-- [Git Branching](https://learngitbranching.js.org)
-- [Простые множители](../../../../extra-algorithm-prime-factors)
-- [Решето Эратосфена](../../../../extra-algorithm-prime-factors-eratosthenes)
-
-**Подготовка на завтра**
-- Еще раз просмотри [стандарт](https://github.com/leonidlebedev/javascript-airbnb) написания кода - это очень важная тема. 
-- Разберись подробно с понятием "Тестирование". Каждый разработчик должен знать что такое тесты, зачем их нужно писать, какую библиотеку лучше использовать. Ознакомься с другими библиотеками для модульного тестирования.
 
 ### Вспомогательные источники
 
-- [Документация Mozilla](https://developer.mozilla.org/ru/docs/Web/JavaScript)
-- [Интерактивная шпаргалка JS](https://htmlcheatsheet.com/js)
-- [Jasmine Documentation](https://jasmine.github.io/pages/docs_home.html)
+- [Документация Mozilla - Классы](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Classes)
+- [Learn JS - Классы](https://learn.javascript.ru/es-class)

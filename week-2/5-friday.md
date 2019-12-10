@@ -1,5 +1,6 @@
 ## Пятница
-### Судоку
 
+### Групповой проект
+### Flashcards
 
-- [Sudoku Challenge](../../../../project-sudoku)
+- [Js Flashcards 1 Single Deck](../../../../flashcards-1-single-deck-challenge)

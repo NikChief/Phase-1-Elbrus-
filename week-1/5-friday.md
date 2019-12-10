@@ -1,7 +1,5 @@
 ## Пятница
+### Судоку
 
 
-### Первый групповой проект
-
-
-[Калькулятор](../../../../project-js-base-calculator)
+- [Sudoku Challenge](../../../../project-sudoku)

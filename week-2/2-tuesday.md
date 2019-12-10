@@ -1,20 +1,21 @@
 ## Вторник
 
-### Вложенные массивы, перебирающие методы
+### Основы ООП: Классы, Методы, Наследование
 ### Основной раздел
 
 **Задания**
-- [Вложенные массивы - 1](../../../../core-js-nested-arrays)
-- [Вложенные массивы - 2](../../../../core-js-nested-arrays-2)
-- [Перебирающие методы](../../../../core-js-enumerable-methods)
-- [Перемешивание массива](../../../../shuffle-challenge)
+- [Сад](../../../../oojs-garden-challenge)
+- [Orange Tree 2: Groves](../../../../orange-tree-2-groves-challenge)
+- [Cookies and Ovens](../../../../cookies-and-ovens-challenge)
 
 
-**Дополнительные задания**
-- [Игра Boggle 1](../../../../extra-nested-arrays-boggle-1-board-generation)
-- [Игра Boggle 2](../../../../extra-nested-arrays-boggle-2-word-checker)
+### Дополнительный раздел
+
+**Задания**
+- [Labyrinth](../../../../labyrinth-challenge)
+
 
 ### Вспомогательные источники
 
-- [Документация Mozilla](https://developer.mozilla.org/ru/docs/Web/JavaScript)
-- [Интерактивная шпаргалка JS](https://htmlcheatsheet.com/js)
+- [Документация Mozilla - Классы](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Classes)
+- [Learn JS - Классы](https://learn.javascript.ru/es-class)
