@@ -6,13 +6,13 @@
 **Задания**
 - [АвиаСейлз minimal version](https://github.com/Elbrus-Bootcamp/SelectCountry)
 - [Пианино](../../../../core-js-base-piano)
-- [Каталог товаров](../../../../js-core-catalog)
 
 **Дополнительные задания**
 
 - [Git Branching](https://learngitbranching.js.org)
 - [Простые множители](../../../../extra-algorithm-prime-factors)
 - [Решето Эратосфена](../../../../extra-algorithm-prime-factors-eratosthenes)
+- [Каталог товаров](../../../../js-core-catalog)
 
 **Подготовка на завтра**
 - Еще раз просмотри [стандарт](https://github.com/leonidlebedev/javascript-airbnb) написания кода - это очень важная тема. 
