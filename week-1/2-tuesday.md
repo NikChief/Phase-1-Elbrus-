@@ -39,9 +39,9 @@ https://habr.com/ru/post/151563/
 ### Основной раздел
 
 **Задания**
+- [Перебирающие методы](../../../../core-js-enumerable-methods)
 - [Вложенные массивы - 1](../../../../core-js-nested-arrays)
 - [Вложенные массивы - 2](../../../../core-js-nested-arrays-2)
-- [Перебирающие методы](../../../../core-js-enumerable-methods)
 - [Перемешивание массива](../../../../shuffle-challenge)
 
 
