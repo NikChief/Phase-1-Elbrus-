@@ -2,6 +2,14 @@
 
 ### Основное
 
+**Обзор**
+
+- Просмотри все темы, которые были в течение недели. Все ли ты усвоил(а)? Пробегись еще раз по всем заданиям за неделю и разбери их.
+- Основные задания за неделю:
+  - [Модель рощи из разных деревьев](https://github.com/Elbrus-Bootcamp/orange-tree-2-groves-challenge)
+  - [Парсинг данных: из CSV в JS в CSV](https://github.com/Elbrus-Bootcamp/core-js-parsing-data-fs)
+  - [fs progressbar](https://github.com/Elbrus-Bootcamp/fs-files-progressbar)
+
 **Задания**
 
 - Установите MongoDB:
