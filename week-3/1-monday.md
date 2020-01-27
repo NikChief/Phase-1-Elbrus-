@@ -1,7 +1,7 @@
 ## Понедельник
 
 
-### Асинхронность: Event Loop, Promises, aync/await
+### Асинхронность: Event Loop, Promises, Async/Await
 ### Основной раздел
 
 *Checkpoint Challenge #2 (~45min)*
