@@ -15,7 +15,7 @@
 ### JavaScript & DOM
 
 **Задания**
-- [АвиаСейлз minimal version](https://github.com/Elbrus-Bootcamp/SelectCountry)
+- [Aviasales (minimal version)](https://github.com/Elbrus-Bootcamp/SelectCountry)
 - [Пианино](../../../../core-js-base-piano)
 
 **Дополнительные задания**
