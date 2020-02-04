@@ -6,7 +6,7 @@
 
 - Просмотри все темы, которые были в течение недели. Все ли ты усвоил(а)? Пробегись еще раз по всем заданиям за неделю и разбери их.
 - Основные задания за неделю:
-  - [Вложенные массивы - Шахматы и Таблица](https://github.com/Elbrus-Bootcamp/core-js-nested-arrays)
+  - [Вложенные массивы: Шахматы и Таблица](https://github.com/Elbrus-Bootcamp/core-js-nested-arrays)
   - [Расчет факториала](https://github.com/Elbrus-Bootcamp/core-algorithm-factorial)
   - [JS racer](https://github.com/Elbrus-Bootcamp/core-algorithm-racer-1)
 
