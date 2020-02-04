@@ -40,14 +40,14 @@ https://habr.com/ru/post/151563/
 
 **Задания**
 - [Перебирающие методы](../../../../core-js-enumerable-methods)
-- [Вложенные массивы - Шахматы и Таблица](../../../../core-js-nested-arrays)
-- [Вложенные массивы - Крестики-нолики и снова Таблица](../../../../core-js-nested-arrays-2)
+- [Вложенные массивы - Шахматы и Таблица](../../../../core-js-nested-arrays-chess)
+- [Вложенные массивы - Крестики-нолики и снова Таблица](../../../../core-js-nested-arrays-tic-tac-toe)
 - [Перемешивание массива](../../../../shuffle-challenge)
 
 
 **Дополнительные задания**
-- [Игра Boggle 1](../../../../extra-nested-arrays-boggle-1-board-generation)
-- [Игра Boggle 2](../../../../extra-nested-arrays-boggle-2-word-checker)
+- [Игра Boggle Генерация](../../../../extra-nested-arrays-boggle-1-board-generation)
+- [Игра Boggle Проверка](../../../../extra-nested-arrays-boggle-2-word-checker)
 
 ### Вспомогательные источники
 
