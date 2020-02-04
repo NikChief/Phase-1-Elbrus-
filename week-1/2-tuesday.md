@@ -40,8 +40,8 @@ https://habr.com/ru/post/151563/
 
 **Задания**
 - [Перебирающие методы](../../../../core-js-enumerable-methods)
-- [Вложенные массивы - Шахматы и Таблица](../../../../core-js-nested-arrays-chess)
-- [Вложенные массивы - Крестики-нолики и снова Таблица](../../../../core-js-nested-arrays-tic-tac-toe)
+- [Вложенные массивы: Шахматы и Таблица](../../../../core-js-nested-arrays-chess)
+- [Вложенные массивы: Крестики-нолики и снова Таблица](../../../../core-js-nested-arrays-tic-tac-toe)
 - [Перемешивание массива](../../../../shuffle-challenge)
 
 
