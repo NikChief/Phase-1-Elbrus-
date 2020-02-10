@@ -4,15 +4,15 @@
 ### Основной раздел
 
 **Задания**
-- [Сад](../../../../oojs-garden-challenge)
-- [Orange Tree 2: Groves](../../../../orange-tree-2-groves-challenge)
-- [Cookies and Ovens](../../../../cookies-and-ovens-challenge)
+- [Сад](../../../../core-js-oop-garden)
+- [Рощи деревьев](../../../../core-js-oop-inheritance-tree-grooves)
+- [Печенье и плиты](../../../../core-js-oop-cookies-and-ovens)
 
 
 ### Дополнительный раздел
 
 **Задания**
-- [Labyrinth](../../../../labyrinth-challenge)
+- [Лабиринт](../../../../labyrinth-challenge)
 
 
 ### Вспомогательные источники
