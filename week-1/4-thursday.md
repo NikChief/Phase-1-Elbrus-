@@ -25,6 +25,19 @@
 - [Регулярные выражения - методы](https://learn.javascript.ru/regexp-methods)
 - [Регулярные выражения - онлайн тестер](https://regex101.com)
 - [Визуализация регулярных выражений. Пример валидации ICQ.](https://www.debuggex.com/r/-p2UCw7V4oK2IkL8)
+- [Тестирование Jasmine](https://jasmine.github.io/)
+Для тестирования требуется использовать Jasmine [Jasmine][]. Напоминаем, основные методы, используемые в Jasmine: describe(), it(), expect(), и другие. Если хотите установить настройки перед каждым тестом, нужно использовать beforeEach() и/или beforeAll(). Когда вызываешь функцию describe (), то передавай анонимную функцию, содержащую фактические тесты. На Рисунке 4 показан тест, написанный в Jasmine.
+
+describe('a string with my name', function() {
+  let myName;
+  beforeEach(function() {
+    myName = 'Carson Hollands';
+  });
+  it('is my name', function() {
+    expect(myName).toEqual('Carson Hollands');
+  });
+});
+Рисунок 4. Тестирование значения объекта строки JavaScript с помощью Jasmine.
 
 ### Подготовка на завтра 
 - [Работа с git](https://github.com/Elbrus-Bootcamp/git-steps/blob/master/README.md)
