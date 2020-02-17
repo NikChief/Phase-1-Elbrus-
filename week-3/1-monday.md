@@ -4,7 +4,9 @@
 ### Асинхронность: Event Loop, Promises, Async/Await
 ### Основной раздел
 
-*Checkpoint Challenge #2 (~45min)*
+---
+# Checkpoint Challenge #2 (~45min)
+---
 
 **Задания**
 
