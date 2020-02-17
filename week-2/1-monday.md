@@ -3,7 +3,7 @@
 ### Основы ООП: Классы
 ### Основной раздел
 
->__*Checkpoint Challenge #1 (~45min)*__
+__*Checkpoint Challenge #1 (~45min)*__
 
 **Задания**
 - [Велосипеды и станции](../../../../oojs-bikes-and-stations-challenge)
