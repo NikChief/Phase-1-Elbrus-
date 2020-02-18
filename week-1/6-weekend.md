@@ -19,6 +19,7 @@
 - [Документация Определение классов](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Classes)
 - [Видео - ES6: Классы](https://www.youtube.com/watch?v=yBNd-0dO1u8)
 - [Видео - JavaScript Classes Tutorial](https://www.youtube.com/watch?v=2ZphE5HcQPQ)
+- [Видео - шикарный 👑 Event Loop](https://youtu.be/8cV4ZvHXQL4)
 
 **Дополнительно**
 
