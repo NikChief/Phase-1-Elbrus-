@@ -17,7 +17,7 @@
 - [What the heck is the event loop?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 
-**Задания**
+### Задания
 
 - [fs на промисах](../../../../core-async-promisify-fs)
 - [JS Racer](../../../../core-algorithm-racer-1) - напишите в стиле ООП.
