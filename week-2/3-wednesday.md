@@ -5,7 +5,7 @@
 
 ### Вспомогательные источники
 
-- [Работа с тестами через node.js](https://github.com/Elbrus-Bootcamp/manuals/blob/master/how-to-use-jasmine.md)
+- [Работа с тестами через node.js](https://github.com/Elbrus-Bootcamp/manuals/blob/master/jasmine.md)
 - [Документация Mozilla](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 - [Интерактивная шпаргалка JS](https://htmlcheatsheet.com/js)
 
