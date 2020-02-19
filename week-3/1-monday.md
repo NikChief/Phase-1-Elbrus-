@@ -20,4 +20,5 @@
 ### Задания
 
 - [fs на промисах](../../../../core-async-promisify-fs)
-- [JS Racer](../../../../core-algorithm-racer-1) - напишите в стиле ООП.
+- [JS OOP Promise Racer](../../../../core-oop-promise-racer)
+- Всё выполнил? Нужны ещё задания? Сообщи нам об этом!
