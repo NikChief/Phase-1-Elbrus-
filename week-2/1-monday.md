@@ -19,6 +19,9 @@
 - [Train or Truck](../../../../core-proto-vehicle)
 - [Disney](../../../../core-proto-disney)
 
+**Почитать перед сном**
+- [Learn JS - Классы][Class]
+
 
 
 ### Дополнительный раздел
