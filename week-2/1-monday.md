@@ -1,7 +1,6 @@
 ## Понедельник
 
 ### Object, Context(this), call/apply/bind, __proto__, prototype
-### Основной раздел
 
 ----
 # Checkpoint Challenge #1 (~45min)
@@ -13,6 +12,8 @@
 - [Learn JS - Методы объекта, "this"](https://learn.javascript.ru/object-methods)
 - [Learn JS - Конструкторы, "new"](https://learn.javascript.ru/constructor-new)
 - [Learn JS - Классы][Class]
+
+### Основной раздел
 
 **Задания**
 - [Train or Truck](../../../../core-proto-vehicle)
