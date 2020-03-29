@@ -20,5 +20,14 @@
 ### Задания
 
 - [fs на промисах](../../../../core-async-promisify-fs)
-- [JS OOP Promise Racer](../../../../core-oop-promise-racer)
+- [Star Wars](../../../../core-promises-star-wars)
+
+
+### Дополнительный раздел
+
+### Задания
+
+> Отвлекись от промисов! Вспомини ООП!
+
+- [JS OOP Racer](../../../../core-oop-promise-racer)
 - Всё выполнил? Нужны ещё задания? Сообщи нам об этом!
