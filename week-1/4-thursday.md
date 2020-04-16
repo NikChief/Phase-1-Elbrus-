@@ -8,7 +8,7 @@
 
 
 - [Регулярные выражения](../../../../core-regular-expressions)
-- Самостоятельная практика по регулярным выражениям
+- Практика по регулярным выражениям
     - [Онлайн-RegEx-Кроссворды](https://regexcrossword.com/)
     - [Онлайн-RegEx-Задачи](https://www.hackerrank.com/domains/regex)
 
