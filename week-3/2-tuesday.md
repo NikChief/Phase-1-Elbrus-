@@ -19,6 +19,7 @@
 **Видео:**
 - [SQL vs NoSQL](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y&t=770s)
 - [Modeling with MongoDB](https://www.youtube.com/watch?v=4rhKKFbbYT4&t=173s)
+- [MongoDB Crash Course](https://www.youtube.com/watch?v=-56x56UppqQ)
 - [MongoDB in 30 minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE)
 
 
