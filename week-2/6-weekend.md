@@ -18,6 +18,7 @@
 sudo apt update
 sudo apt install mongodb
 ```
+
 - [Установите Compass](https://docs.mongodb.com/compass/master/install/)
 
 
@@ -27,4 +28,21 @@ sudo apt install mongodb
 **Review**
 - просмотреть все основные задания за эту неделю и убедитесь что вы разобрались в теме OOPJS
 
+**Установка MongoDB на macOS**
 
+- Установить Homebrew (если он не установлен)
+
+```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"```
+
+- Далее команды в консоли:
+
+```
+brew tap mongodb/brew
+brew install mongodb-community@4.2
+```
+
+https://brew.sh/#install
+
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
+
+https://github.com/mongodb/homebrew-brew
