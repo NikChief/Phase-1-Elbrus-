@@ -32,6 +32,8 @@
  
 Скопировать команду и выполнить в терминале. Она скачает и установит новую тему для вашего терминала.  
 `git clone --depth=1 https://github.com/Bash-it/bash-it.git ~/.bash_it && ~/.bash_it/install.sh `
+и после еще сделайте 
+`git config --global core.editor "code --wait"`
 
 ## Дополнительное 
 
