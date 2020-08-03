@@ -5,8 +5,6 @@
 ----
 # Checkpoint Challenge #1 (~45min)
 
-У вас есть 45 минут, чтобы выполнить чекпоинт: https://github.com/Elbrus-Bootcamp/checkpoint-js-arrays-objects-tests.
-
 ----
 
 ### Вспомогательные источники
