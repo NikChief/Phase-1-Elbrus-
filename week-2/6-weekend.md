@@ -37,8 +37,9 @@ sudo apt install mongodb
 - Далее смотрите ссылки.
 ```
 
-https://brew.sh/#install
-
 https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
 
+https://brew.sh/#install
+
 https://github.com/mongodb/homebrew-brew
+```
