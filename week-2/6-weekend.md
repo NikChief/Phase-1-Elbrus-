@@ -34,11 +34,7 @@ sudo apt install mongodb
 
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"```
 
-- Далее команды в консоли:
-
-```
-brew tap mongodb/brew
-brew install mongodb-community@4.2
+- Далее смотрите ссылки.
 ```
 
 https://brew.sh/#install
