@@ -9,7 +9,7 @@
   - [Модель рощи из разных деревьев](https://github.com/Elbrus-Bootcamp/orange-tree-2-groves-challenge)
   - [Парсинг данных: из CSV в JS в CSV](https://github.com/Elbrus-Bootcamp/core-js-parsing-data-fs)
   - [fs progressbar](https://github.com/Elbrus-Bootcamp/fs-files-progressbar)
-- Наши прошлые лекции: [Женя (2020-08)](https://www.youtube.com/watch?v=IOyAfCspmVA&list=PL8NGcSL3ZP-_tTReN_spNfCi-6D4Ox-0o&index=8&t=0s)
+- Наши прошлые лекции понедельника: [Женя (2020-08)](https://www.youtube.com/watch?v=IOyAfCspmVA&list=PL8NGcSL3ZP-_tTReN_spNfCi-6D4Ox-0o&index=8&t=0s)
 
 **Задания**
 
