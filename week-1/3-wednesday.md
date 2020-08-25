@@ -27,3 +27,4 @@
 - [Оценка сложности алгоритмов](https://habr.com/ru/post/104219/)
 - [Сложности популярных алгоритмов](https://habr.com/ru/post/188010/)
 - [Анализ сложности алгоритмов (Цикл статей. Углубленное изучение)](https://habr.com/ru/post/196560/)
+- Наши прошлые лекции: [Женя (2020-08)](https://www.youtube.com/watch?v=2yQK4SFXMRY&list=PL8NGcSL3ZP-_tTReN_spNfCi-6D4Ox-0o&index=7&t=0s)
