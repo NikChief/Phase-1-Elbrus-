@@ -26,6 +26,9 @@
 - [Поиск слова](../../../../core-algorithm-word-search)
 - [JS Racer](../../../../core-algorithm-racer-1)
 
+*в 17:00 лекия по git*
+
+
 ### Вспомогательные источники
 - [Регулярные выражения - методы](https://learn.javascript.ru/regexp-methods)
 - [Регулярные выражения - онлайн тестер](https://regex101.com)
