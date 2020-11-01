@@ -15,6 +15,9 @@
 - [Решето Эратосфена](../../../../extra-algorithm-prime-factors-eratosthenes)
 - [Каталог товаров](../../../../js-core-catalog)
 
+**Материалы**
+- [Дата - атрибуты](https://developer.mozilla.org/ru/docs/Web/Guide/HTML/Using_data_attributes)
+
 
 ### Создание нового Issue
 Если вы нашли опечатку в задании, неточность или у вас есть предложение, как можно улучшить задание - то вам нужно создать новый Issue.  
