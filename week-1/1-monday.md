@@ -36,4 +36,4 @@
 - [Документация Mozilla](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 - [Интерактивная шпаргалка JS](https://htmlcheatsheet.com/js)
 - [Jest Documentation](https://jestjs.io/docs/ru/getting-started)
-- Наши прошлые лекции: [Женя (2020-08)](https://www.youtube.com/watch?v=3I6a1h5f8YQ&list=PL8NGcSL3ZP-_tTReN_spNfCi-6D4Ox-0o&index=3&t=0s)
+- Завтрашняя лекция: [Женя (2020-08)](https://www.youtube.com/watch?v=3I6a1h5f8YQ&list=PL8NGcSL3ZP-_tTReN_spNfCi-6D4Ox-0o&index=3&t=0s)
