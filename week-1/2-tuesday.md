@@ -46,7 +46,7 @@ https://habr.com/ru/post/151563/
 </details>
 
 
-### Тестирование (Jasmine)
+### Тестирование (Jest)
 
 [Изучить](../../../../manuals/blob/master/jasmine.md)
 
