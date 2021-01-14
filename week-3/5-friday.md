@@ -4,26 +4,6 @@
 
 - [Бумеранг](../../../../core-async-boomerang)
 
-### Git
-
 ### Общие рекомендации
 
-* Один человек делает форк
-* Другие делают клон созданного форка
-* Добавьте всех в коллабораторы
-* Каждый работает в своей ветке
-* Делайте merge как можно чаще!
-
-### Как делать merge?
-* git add -A
-* git commit -m ""
-* git push origin mybranch
-* На github.com нажать "New pull request"
-* Попросить товарища проверить pull-request
-
-### Во сколько делать merge?
-
-* 12:00
-* 14:00
-* 16:00
-* за 20 минут до показа
+[Как работать с командным проектом](https://github.com/Elbrus-Bootcamp/phase-1/blob/master/resources/challenge-all.md)
