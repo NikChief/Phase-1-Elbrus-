@@ -9,6 +9,7 @@
 - [Mongoose intro](../../../../mongo-intro)
 - [Скачки](../../../../core-mongo-associations-races)
 - [Отели](../../../../core-mongoose-hotels)
+- [Комментарии](../../../../core-mongoose-comments)
 
 
 
