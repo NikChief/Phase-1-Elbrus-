@@ -68,4 +68,4 @@ https://habr.com/ru/post/151563/
 
 - [Документация Mozilla](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 - [Интерактивная шпаргалка JS](https://htmlcheatsheet.com/js)
-- [Завтрашняя лекция] (https://www.youtube.com/watch?v=CuZTWdUnwMw&list=PL8NGcSL3ZP--IPOAADXlCXObb3cbrYioH&index=2)
+- [Завтрашняя лекция](https://www.youtube.com/watch?v=CuZTWdUnwMw&list=PL8NGcSL3ZP--IPOAADXlCXObb3cbrYioH&index=2)
