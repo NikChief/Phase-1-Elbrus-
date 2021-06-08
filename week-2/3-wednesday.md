@@ -24,3 +24,6 @@
 **Задания**
 - [Бистро Берни](../../../../algorithms-and-oo-checkpoint-challenge)
 - [Labyrinth](../../../../labyrinth-challenge)
+
+### Вспомогательные источники
+- Завтрашняя лекция: [Женя (2020-08)](https://www.youtube.com/watch?v=2yQK4SFXMRY&list=PL8NGcSL3ZP-_tTReN_spNfCi-6D4Ox-0o&index=11)
