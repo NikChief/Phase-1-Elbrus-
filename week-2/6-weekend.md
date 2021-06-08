@@ -13,16 +13,8 @@
 
 **Задания**
 
-- Установите MongoDB:
-
-``` bash
-sudo apt update
-sudo apt install mongodb
-```
-
+- [Установите MongoDB](https://docs.mongodb.com/manual/installation/)
 - [Установите Compass](https://docs.mongodb.com/compass/master/install/)
-
-
 - [Филипп Робертс: Что за чертовщина такая event loop? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [MongoDB Crash Course](https://www.youtube.com/watch?v=-56x56UppqQ)
 
