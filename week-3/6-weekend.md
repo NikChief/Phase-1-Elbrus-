@@ -31,4 +31,4 @@
 - [TODO list](../../../../todo-list-challenge)
 
 ### Вспомогательные источники
-- Завтрашняя лекция: [Женя (2020-11)](https://www.youtube.com/watch?v=5a3thjSWbxs&list=PL8NGcSL3ZP-_OVaarWZPm5TX6xik2cnZm&index=11)
+- Лекция на понедельник: [Женя (2020-11)](https://www.youtube.com/watch?v=5a3thjSWbxs&list=PL8NGcSL3ZP-_OVaarWZPm5TX6xik2cnZm&index=11)
