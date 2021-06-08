@@ -22,7 +22,8 @@
 **Почитать перед сном**
 - [Learn JS - Классы][Class]
 
-
+### Вспомогательные источники
+- Завтрашняя лекция: [Семён (2020-08)](https://www.youtube.com/watch?v=6DO-tJtUjS8&list=PL8NGcSL3ZP-_tTReN_spNfCi-6D4Ox-0o&index=13)
 
 ### Дополнительный раздел
 
