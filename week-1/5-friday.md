@@ -32,3 +32,8 @@
 * 14:00
 * 16:00
 * за 20 минут до показа
+
+### Подготовка к понедельнику
+
+* Наши прошлые лекции: [Семён (2020-12)](https://www.youtube.com/watch?v=nRebm1AKM_k&list=PL8NGcSL3ZP-825aSq9GkroP0zubm7e4Sf)
+
