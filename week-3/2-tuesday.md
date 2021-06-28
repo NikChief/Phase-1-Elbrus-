@@ -1,30 +1,26 @@
 ## Вторник
 
-### Утренний чекпоинт!
 
-Напомните инструктору об этом :)
-
-### MongoDB, Закрепление навыков работы с классами
+### SQL, Sequelize RAW Queries
 ### Основной раздел
 
 **Задания**
-- [Mongo-cli intro](../../../../mongo-cli-intro)
-- [Скачки - выполнять только Релиз 0](../../../../core-mongo-associations-races)
-- [Cookies and Ovens](../../../../cookies-and-ovens-challenge)
+- [Скачки - выполнять только Релиз 0](../../../../p1-sql-sequelize-races)
+- [Социальная сеть](../../../../p1-sql-core-social)
+- [Cookies and Ovens](../../../../p1-sql-sequelize-cookies)
+
 
 ### Вспомогательные источники
 
-- [thinking-documents](https://www.mongodb.com/blog/post/thinking-documents-part-1?jmp=docs)
-- [Презентация](https://www.mongodb.com/presentations/webinar-back-to-basics-thinking-in-documents)
-- [Когда ссылка, когда вложенность? (Embed or refer?)](https://blog.couchbase.com/data-modelling-when-embed-or-refer/)
-- [Если вы уже знакомы с SQL](https://gist.github.com/aponxi/4380516)
+- [Sequelize документация по RAW Queries](https://sequelize.org/master/manual/raw-queries.html)
+- [Raw Queries](https://runebook.dev/ru/docs/sequelize/manual/raw-queries)
+
 
 **Видео:**
 - [SQL vs NoSQL](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y&t=770s)
-- [Modeling with MongoDB](https://www.youtube.com/watch?v=4rhKKFbbYT4&t=173s)
-- [MongoDB Crash Course](https://www.youtube.com/watch?v=-56x56UppqQ)
-- [MongoDB in 30 minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE)
+
 
 ### Подготовка к завтрашнему дню
 
-* Завтрашняя лекция: [Женя (2020-08)](https://www.youtube.com/watch?v=64o9LnWpYWc&list=PL8NGcSL3ZP-_tTReN_spNfCi-6D4Ox-0o&index=10&t=0s)
+- [Sequelize документация по Моделям](https://sequelize.org/master/manual/model-basics.html)
+- [Sequelize документация по CLI](https://sequelize.org/master/manual/migrations.html)
