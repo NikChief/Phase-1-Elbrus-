@@ -1,40 +1,32 @@
 ## Понедельник
 
 
-### Асинхронность: Event Loop, Promises, Async/Await
-### Основной раздел
-
----
-# Checkpoint Challenge #2 (~45min)
-
----
-
-
-### Вспомогательные источники
-- [Симулятор Event Loop](http://latentflip.com/loupe)
-- [Promise doc](https://learn.javascript.ru/promise)
-
-**Видео:**
-- [What the heck is the event loop?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+### SQL
 
 
 ### Задания
+- [The World is ours!](../../../../p1-sql-intro)
+- [Тренажер SQL](http://sql-trainer.elbrusboot.camp)
 
-- [fs на промисах](../../../../core-async-promisify-fs)
-- [Star Wars](../../../../core-promises-star-wars)
 
-
-### Дополнительный раздел
-
-### Задания
-
-> Отвлекись от промисов! Вспомини ООП!
-
-- [JS OOP Racer](../../../../core-oop-promise-racer)
+### Дополнительные задания
+- [SQL Опросы](../../../../p1-sql-intro)
 - Всё выполнил? Нужны ещё задания? Сообщи нам об этом!
 
 
-### Подготовка к завтрашнему дню
+### Вспомогательные источники
+- [Построение ER-Диаграмм](http://inf-teh-lotos.ru/sozdanie-er-diagramm)
+- [Online ERD Tool](https://online.visual-paradigm.com/diagrams/features/erd-tool/)
+- [Статья на Хабре про PostgreSQL](https://habr.com/ru/post/340460/)
 
-* Завтрашняя лекция: [Женя (2020-08)](https://www.youtube.com/watch?v=bQHEnR4CMbI&list=PL8NGcSL3ZP-_tTReN_spNfCi-6D4Ox-0o&index=9&t=0s)
+
+**Видео:**
+- [PostgreSQL Tutorial for Beginners](https://youtu.be/qw--VYLpxG4)
+- [SQL vs NoSQL](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y&t=770s)
+
+### Подготовка к завтрашнему дню
+* Sequelize ORM: [Документация](https://sequelize.org/master/manual/getting-started.html)
+
+
+
 
