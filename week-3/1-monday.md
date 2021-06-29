@@ -5,12 +5,12 @@
 
 
 ### Assignments
-- [The World is ours!](../../../../p1-sql-intro)
+- [The World is ours!](https://github.com/Elbrus-Bootcamp/p1-sql-intro/tree/master-eng)
 - [SQL Trainer](http://sql-trainer.elbrusboot.camp)
 
 
 ### Additional tasks
-- [SQL Polls](../../../../p1-sql-intro)
+- [SQL Polls](https://github.com/Elbrus-Bootcamp/p1-sql-intro/tree/master-eng)
 - Did you finish everything? Need more assignments? Let us know!
 
 ### Auxiliary sources
