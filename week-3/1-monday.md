@@ -1,31 +1,30 @@
-## Понедельник
+## Monday
 
 
 ### SQL
 
 
-### Задания
+### Assignments
 - [The World is ours!](../../../../p1-sql-intro)
-- [Тренажер SQL](http://sql-trainer.elbrusboot.camp)
+- [SQL Trainer](http://sql-trainer.elbrusboot.camp)
 
 
-### Дополнительные задания
-- [SQL Опросы](../../../../p1-sql-intro)
-- Всё выполнил? Нужны ещё задания? Сообщи нам об этом!
+### Additional tasks
+- [SQL Polls](../../../../p1-sql-intro)
+- Did you finish everything? Need more assignments? Let us know!
 
-
-### Вспомогательные источники
-- [Построение ER-Диаграмм](http://inf-teh-lotos.ru/sozdanie-er-diagramm)
+### Auxiliary sources
+- [Building ER-Diagrams](http://inf-teh-lotos.ru/sozdanie-er-diagramm) (rus)
 - [Online ERD Tool](https://online.visual-paradigm.com/diagrams/features/erd-tool/)
-- [Статья на Хабре про PostgreSQL](https://habr.com/ru/post/340460/)
+- [Habr article on PostgreSQL](https://habr.com/ru/post/340460/) (rus)
 
 
-**Видео:**
+**Videos:**
 - [PostgreSQL Tutorial for Beginners](https://youtu.be/qw--VYLpxG4)
 - [SQL vs NoSQL](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y&t=770s)
 
-### Подготовка к завтрашнему дню
-* Sequelize ORM: [Документация](https://sequelize.org/master/manual/getting-started.html)
+### Preparing for tomorrow
+* Sequelize ORM: [Documentation](https://sequelize.org/master/manual/getting-started.html)
 
 
 
