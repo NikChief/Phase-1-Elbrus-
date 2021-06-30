@@ -1,17 +1,17 @@
 ## Четверг
 
-### Mongoose  
+### Sequelize  
 ### Основной раздел
 
 **Задания**
-- [Комментарии](../../../../core-mongoose-comments)
-- [Футболки](../../../../core-mongoose-shirts)
-- [Курсы университета](../../../../core-sql-db-schema-design-university)
-
+- [Комментарии](../../../../p1-sequelize-comments)
+- [Футболки](../../../../p1-sequelize-shirts)
+- [Курсы университета](../../../../p1-sequelize-university)
 
 
 ### Вспомогательные источники
-- [mongoose guide](https://mongoosejs.com/docs/guide.html)
-- [thinking-documents](https://www.mongodb.com/blog/post/thinking-documents-part-1?jmp=docs)
-- [Презентация](https://www.mongodb.com/presentations/webinar-back-to-basics-thinking-in-documents)
-- [Когда ссылка, когда вложенность? (Embed or refer?)](https://blog.couchbase.com/data-modelling-when-embed-or-refer/)
+
+- [model](https://sequelize.org/master/manual/model-querying-basics.html)
+- [sequelize cli](https://sequelize.org/master/manual/migrations.html)
+- [Associations](https://sequelize.org/master/manual/assocs.html)
+- [Model Querying](https://sequelize.org/master/manual/model-querying-basics.html)
