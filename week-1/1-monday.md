@@ -1,43 +1,43 @@
-## Понедельник
+### Monday
 
 
-### Основной раздел
+### Main section
 ### JavaScript & DOM
 
-**Задания**
+## Assignments**
 - [Aviasales (minimal version)](https://github.com/Elbrus-Bootcamp/core-js-base-aviasales)
-- [Пианино](../../../../core-js-base-piano)
+- [Piano](.../.../core-js-base-piano)
 
-**Дополнительные задания**
+**Additional Assignments**
 
 - [Git Branching](https://learngitbranching.js.org)
-- [Простые множители](../../../../extra-algorithm-prime-factors)
-- [Решето Эратосфена](../../../../extra-algorithm-prime-factors-eratosthenes)
-- [Каталог товаров](../../../../js-core-catalog)
+- [Simple multipliers](.../.../.../extra-algorithm-prime-factors)
+- [Eratosthenes Sieve](.../.../extra-algorithm-prime-factors-eratosthenes)
+- [Product Catalog](.../.../.../js-core-catalog)
 
-**Материалы**
-- [Дата - атрибуты](https://developer.mozilla.org/ru/docs/Web/Guide/HTML/Using_data_attributes)
-
-
-### Создание нового Issue
-Если вы нашли опечатку в задании, неточность или у вас есть предложение, как можно улучшить задание - то вам нужно создать новый Issue.  
-Для этого нужно:
-1. Зайти в репозиторий проекта на GitHub
-1. Нажать на вкладку Issues
-1. Нажать кнопку "New issue"
-1. Ввести название и описание вопроса
-1. Нажать кнопку "Submit new issue"  
-После этого будет создан новый issue и мы через некоторое время сделаем его
+**Materials**.
+- [Date - attributes](https://developer.mozilla.org/en/docs/Web/Guide/HTML/Using_data_attributes)
 
 
-**Подготовка на завтра**
-- Еще раз просмотри [стандарт написания кода](https://github.com/leonidlebedev/javascript-airbnb) - это очень важная тема. 
-- Разберись подробно с понятием "Тестирование". Каждый разработчик должен знать что такое тесты, зачем их нужно писать, какую библиотеку лучше использовать. Познакомься с библиотеками для модульного тестирования. Например, c [Jest](https://jestjs.io/en/), [Jasmine](https://jasmine.github.io/). 
- - Посмотри [лекцию по TDD](https://youtu.be/jzkQWe0uROo).
+### Create a new Issue
+If you find a typo in an or an inaccuracy in the task, or you have a suggestion on how to improve a task - you need to create a new Issue.  
+For this you need to:
+1. Go to the project repository on GitHub
+2. Click on the Issues tab.
+3. Click the "New issue" button
+4. Enter a title and a description of the issue
+5. Click the button "Submit new issue".  
+After that the new issue will be created and we will improve it after a while.
 
-### Вспомогательные источники
 
-- [Документация Mozilla](https://developer.mozilla.org/ru/docs/Web/JavaScript)
-- [Интерактивная шпаргалка JS](https://htmlcheatsheet.com/js)
+**Prepare for tomorrow**.
+- Please, review once again [code writing standards] (https://github.com/leonidlebedev/javascript-airbnb) - this topic is very important. 
+- Study thouroughly the concept of "Testing". Every developer should know what testing is, why you need to write the tests and what library is better to use. Get familiazed with unit testing libraries. For example, [Jest](https://jestjs.io/en/), [Jasmine](https://jasmine.github.io/). 
+ - See [lecture on TDD](https://youtu.be/jzkQWe0uROo).
+
+### Additional materials
+
+- [Mozilla documentation](https://developer.mozilla.org/en/docs/Web/JavaScript)
+- [Interactive JS cheat sheet](https://htmlcheatsheet.com/js)
 - [Jest Documentation](https://jestjs.io/docs/en/getting-started)
-- Завтрашняя лекция: [Женя (2020-08)](https://www.youtube.com/watch?v=3I6a1h5f8YQ&list=PL8NGcSL3ZP-_tTReN_spNfCi-6D4Ox-0o&index=3&t=0s)
+- Tomorrow's lecture: [Zhenya (2020-08)](https://www.youtube.com/watch?v=3I6a1h5f8YQ&list=PL8NGcSL3ZP-_tTReN_spNfCi-6D4Ox-0o&index=3&t=0s) (rus)
