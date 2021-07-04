@@ -5,15 +5,15 @@
 ### JavaScript & DOM
 
 ## Assignments**
-- [Aviasales (minimal version)](https://github.com/Elbrus-Bootcamp/core-js-base-aviasales)
-- [Piano](.../.../core-js-base-piano)
+- [Aviasales (minimal version)](https://github.com/Elbrus-Bootcamp/core-js-base-aviasales/tree/master-eng)
+- [Piano](https://github.com/Elbrus-Bootcamp/core-js-base-piano/tree/master-eng)
 
 **Additional Assignments**
 
-- [Git Branching](https://learngitbranching.js.org)
+- [Git Branching](https://learngitbranching.js.org/?locale=en_EN)
 - [Simple multipliers](.../.../.../extra-algorithm-prime-factors)
-- [Eratosthenes Sieve](.../.../extra-algorithm-prime-factors-eratosthenes)
-- [Product Catalog](.../.../.../js-core-catalog)
+- [Eratosthenes Sieve](https://github.com/Elbrus-Bootcamp/extra-algorithm-prime-factors-eratosthenes/tree/master-eng)
+- [Product Catalog](https://github.com/Elbrus-Bootcamp/js-core-catalog/tree/master-eng)
 
 **Materials**.
 - [Date - attributes](https://developer.mozilla.org/en/docs/Web/Guide/HTML/Using_data_attributes)
