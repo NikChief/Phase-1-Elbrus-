@@ -1,71 +1,71 @@
-## Вторник
+## Tuesday
 
-### Утренний чекпоинт!
+#### Morning checkpoint!
 
-Напомните инструктору об этом :)
+Do not forget to remind your teacher about it :)
 
-### Парное программирование
+### Pair programming
 <details>
 
 <summary>
-Изучить
+Explore
 </summary>
 
-https://habr.com/ru/post/151563/  
+https://habr.com/en/post/151563/  (rus)
 
-**Инструкция**
-1. Работать в 1 форке репозитория. Напарника нужно добавить в Colloboratos репозитория.
-1. Роли меняются по таймеру каждые 30 минут
-1. Использовать 1 компьютер (второй нужно выключить, иначе можно уйти в соло-групповую работу) и монитор
-1. Договариваться о времени обеда. В это время не работать по одиночке, а ждать напарника.
-1. Менять роли Драйвера и Навигатора
-1. *В конце парного программирования дать обратную связь что стоит улучшить в следующий раз.*
+**Instruction**.
+1. Work in the same repository fork. The partner must be added to the collaborators of the repository.
+2. You should change roles on a timer every 30 minutes
+Use 1 computer and monitor (the second one should be switched off, otherwise you can distract yourself and start working solo).
+3. Agree on lunch time. During this time you should not work alone, but wait for a partner.
+4. Swap the Driver and Navigator roles.
+5. *At the end of paired programming, give feedback on what is worth improving next time.*
 
-**Преимущества парного программирования:**
-1. **Обмен опытом:** Часто бывает, что сидя в паре вы узнаете про пару новых горячих клавиш, интересные утилиты для ускорения работы. В любом случае, наблюдая за тем, как программируют другие вы сами постоянно учитесь.
-1. **Знания о системе:** Постоянная смена пар способствует распространению знаний о разных частях системы внутри команды. Это дает возможность понимать как система развивается, улучшать дизайн системы, не дублировать логику.
-1. **Коллективное владение кодом:** Когда все участвуют в написании всех частей системы, то не может идти речи о персональном владении классом или сборкой.
-1. **Наставничество:** Все мы когда-то начинали программировать. Как показала практика самое простое вливание в проект происходит в процессе парного программирования.
-1. **Больше общения:** Общение внутри команды помогает выстраивать доверительные отношения. Стендапы и ретроспективы добавляют в общения в повседневную работу, но это не сравнить с возможностями парного программирования.
-1. **Стандарты кодирования:** Сидя в паре, постоянно передавая клавиатуру и меняя пары, программисты распространяют знания о том, какие стандарты кодирования приняты на проекте. Вам уже не понадобится прикручивать автоматические инструменты для проверки качества кода.
-1. **Улучшение дисциплины:** Сидя в паре, хочется показать свою заинтересованность и уровень подготовки партнеру. И довольно трудно временно переключиться на соц. сети, чтобы полистать последние забавные картинки.
-1. **Сопряжение потока:** Один программист спрашивает у другого «Что мы сейчас решаем?» и они оба начинают погружаться в задачу. Такой подход может приводить к сопряжению состояния потока, что увеличивает продуктивность в разы.
-1. **Меньше прерываний:** В паре вам приходится меньше прерываться на сторонние факторы, т.к. время двух человек ценнее, чем одного, их работа становится в 2 раза дороже.
+**Benefits of pair programming:**
+1. **Sharing the experience:** It often happens that, working in pair, you learn about a couple of new hotkeys or some interesting utilities to speed up your work. In any case, by observing how other students program, you are constantly learning yourself.
+2. **Enlarging knowledge about the system:** Constant changing partners for pair programming entails enlarging the knowledge about different parts of the system within the team. This lets you understand how the system develops, improve its design, and helps not to duplicate logic.
+3. **Collective ownership of the code:** When everyone participates in writing all parts of the system, there never can appear any case of personal ownership of a class or assembly.
+4. **Mentoring:** We all have been beginners in programming. As practice has shown, the easiest infusion into a project comes from pair programming.
+5. **More communication:**Communication within the team helps to build trust. Stand-ups and retrospectives can contribute some communication into our daily work, but it can't be compared with the prospects of pair programming.
+6. **Coding standards:** Working in pairs, constantly passing the keyboard and swapping pairs, programmers spread the knowledge about the coding standards applied in the project. No longer you'll need to implement some automatic tools to check the code quality.
+7. **Improving discipline:** Working in pairs, you tend to demonstrate your interest and skills to the partner. And in this case it's pretty hard to get destructed and switch to social media and funny pictures instead working.
+8. **Flow Pairing:** One programmer may ask the other "What are we working on now?" and they both begin to immerse themselves in the task. This approach can lead to flow state pairing, which remarkably increases the productivity.
+9. **Fewer interruptions:**As a pair, you have fewer interruptions from some outside factors, since two people's time is more valuable than one person's time, your work becomes twice as valuable.
 
-**Анти-паттерны**
-1. **Наблюдай за Мастером:** Это происходит, когда в паре есть программист, который считает (или даже является) гуру в своей области. Вопросы менее опытного разработчика о коде, который генерируется Мастером, не получают ответа. Возможен вариант, когда его постоянно посылают почитать в Google. Мастер не спешит отдавать клавиатуру напарнику, а когда тот добирается до нее, Мастер теряет всякий интерес к процессу.
-1. **Диктатор:** Один из разработчиков в паре всегда занимает жесткую ультимативную позицию по поводу всех решений, которые касаются текущих задач. В такой ситуации не может идти речи о взаимной помощи или обучении в паре.
-1. **Сходи за кофе:** Пара садится за компьютер. Один из разработчиков берет клавиатуру и начинает писать код. Говорит напарнику: «Пока я пишу код, ты сходи и налей нам кофе». Это нарушает базовую идею о взаимной вовлеченности программистов в процесс.
-1. **Молчаливые партнеры:** Напарники не общаются друг с другом и не комментируют свои действия и решения по ходу работы. При отсутствии обратной связи смысл пары теряется.
-1. **Разделение задач за одним столом:** Программисты садятся в пару, берут два компьютера за одним столом (настольный и ноутбук) и начинают параллельно работать.
-1. **Неудобно сидеть:** Самая частая причина усталости при работе в паре — неудобное положение клавиатуры и монитора для того, кто сейчас «водитель». Когда клавиатура переходит от одного программиста к другому, получивший ее не перемещается в центр стола, а нагибается к клавиатуре, тем самым создавая себе трудности при работе.
-1. **Партнер занят своим делом:** Один из партнеров во время работы в паре отдаляется от места работы, проверяет свою почту и т.д.
-1. **Свои настройки окружения:** Каждый раз, когда управление переходит от одного партнера к другому, начинается перенастройка окружения: закладок, шрифта и т.д.
-1. **Свой стиль:** Каждый из партнеров придерживается своих стандартов кодирования, что вызывается бурные дискуссии и ужасно отформатированный код.
+**Anti-patterns in pair programming**.
+1. **Watch the Master:** This happens when there is a developer in the pair who considers (or even is) a guru in his or her field. The less experienced developer's questions about the code generated by Master go unanswered. Master may constantly send his partner to Google to read. The Master doesn't hurry to give the keyboard to his partner, and when the latter gets his hands on it, the Master loses all interest in the process.
+2. **Dictator:** One of the developers in the pair always takes a tough ultimatum position on all decisions that relate to current tasks. In such a situation, there can be no question of mutual assistance or learning in pairs.
+3. **Go get coffee:** The pair is working at the computer. One of the developers picks up a keyboard and starts writing code. He says to his partner, "While I'm doing this, please, go and get us some coffee." This violates the basic idea of mutual involvement of the both developers into the process.
+4. ** Silent partners:** Partners don't communicate with each other and don't comment on their actions and decisions as they go along. With no feedback the meaning of the pairing is lost.
+5. **Separating tasks at the same table:** Developers stay in pairs, take two computers at the same table (desktop and laptop), and start working in parallel.
+6. ** Uncomfortable sitting:** The most common cause of fatigue during working in pairs is an uncomfortable position of the keyboard and monitor for whoever is now the "Driver". When the keyboard is passed from one developer to the other, the new Driver does not move to the center of the desk, but bends over to the keyboard, thus making it difficult for him or her to work.
+7. **Partner is busy minding his own business:** One partner is moving away from his place of work, checking his email e.t.c. while working in pairs.
+8. **Own environment settings:** Every time the control is directed from one partner to the other, the environment is reconfigured: bookmarks, font, etc.
+9. **Different style:** Each partner adheres to its own coding standards, which causes heated discussions and terribly formatted code.
 
-</details>
-
-
-### Тестирование (Jest)
-
-[Изучить](../../../../manuals/blob/master/jasmine.md)
-
-### Вложенные массивы, перебирающие методы
-### Основной раздел
-
-**Задания**
-- [Перебирающие методы](../../../../core-js-enumerable-methods)
-- [Вложенные массивы: Шахматы и Таблица](../../../../core-js-nested-arrays-chess)
-- [Вложенные массивы: Крестики-нолики и снова Таблица](../../../../core-js-nested-arrays-tic-tac-toe)
-- [Перемешивание массива](../../../../shuffle-challenge)
+</details>.
 
 
-**Дополнительные задания**
-- [Игра Boggle Генерация](../../../../extra-nested-arrays-boggle-1-board-generation)
-- [Игра Boggle Проверка](../../../../extra-nested-arrays-boggle-2-word-checker)
+### Testing (Jest).
 
-### Вспомогательные источники
+[Explore](https://github.com/Elbrus-Bootcamp/manuals/blob/master/jasmine.md) (RUS)
 
-- [Документация Mozilla](https://developer.mozilla.org/ru/docs/Web/JavaScript)
-- [Интерактивная шпаргалка JS](https://htmlcheatsheet.com/js)
-- Завтрашняя лекция: [Женя (2020-03)](https://www.youtube.com/watch?v=CuZTWdUnwMw&list=PL8NGcSL3ZP--IPOAADXlCXObb3cbrYioH&index=2)
+### Nested arrays, enumerating methods
+### Main section
+
+**Assessments**
+- [Enumerable methods](https://github.com/Elbrus-Bootcamp/core-js-enumerable-methods/tree/master-eng)
+- [Nested Arrays: Chess and Table](https://github.com/Elbrus-Bootcamp/core-js-nested-arrays-chess/tree/master-eng)
+- [Nested Arrays: Tic-tac-toe and Table again](https://github.com/Elbrus-Bootcamp/core-js-nested-arrays-tic-tac-toe/tree/master-eng)
+- [Array Shuffle](https://github.com/Elbrus-Bootcamp/shuffle-challenge/tree/master-eng)
+
+
+**Additional Assessments**.
+- [Boggle Generation Game](https://github.com/Elbrus-Bootcamp/extra-nested-arrays-boggle-1-board-generation/tree/master-eng)
+- [Boggle Game Checker](https://github.com/Elbrus-Bootcamp/extra-nested-arrays-boggle-2-word-checker/tree/master-eng)
+
+### Additional materials
+
+- [Mozilla documentation](https://developer.mozilla.org/en/docs/Web/JavaScript)
+- [Interactive JS cheat sheet](https://htmlcheatsheet.com/js)
+- Tomorrow's lecture: [Zhenya (2020-03)](https://www.youtube.com/watch?v=CuZTWdUnwMw&list=PL8NGcSL3ZP--IPOAADXlCXObb3cbrYioH&index=2) (rus)
