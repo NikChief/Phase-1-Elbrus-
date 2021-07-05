@@ -1,8 +1,4 @@
-### Monday
-
-
-### Main section
-### JavaScript & DOM
+# Monday: JavaScript & DOM
 
 ## Assignments**
 - [Aviasales (minimal version)](https://github.com/Elbrus-Bootcamp/core-js-base-aviasales/tree/master-eng)
@@ -30,10 +26,15 @@ For this you need to:
 After that the new issue will be created and we will improve it after a while.
 
 
-**Prepare for tomorrow**.
+### Prepare for the day ahead
+You are expected to do some reading for the topics in the day ahead. In the flipped classroom, it should not be the first time that you see a topic.
+
 - Please, review once again [code writing standards] (https://github.com/leonidlebedev/javascript-airbnb) - this topic is very important. 
-- Study thouroughly the concept of "Testing". Every developer should know what testing is, why you need to write the tests and what library is better to use. Get familiazed with unit testing libraries. For example, [Jest](https://jestjs.io/en/), [Jasmine](https://jasmine.github.io/). 
- - See [lecture on TDD](https://youtu.be/jzkQWe0uROo).
+- Study thoroughly the concept of "Testing". Every developer should know what testing is, why you need to write the tests and what library is better to use. Get familiazed with unit testing libraries. For example, [Jest](https://jestjs.io/en/), [Jasmine](https://jasmine.github.io/). 
+ - [2 minute video on filter, map, reduce](https://www.youtube.com/watch?v=PZvHZJVeYdw)
+ - [Article on filter, map, reduce](https://www.freecodecamp.org/news/javascript-map-reduce-and-filter-explained-with-examples/)
+ - **Optional:** See [lecture on TDD (46 min)](https://youtu.be/jzkQWe0uROo).
+
 
 ### Additional materials
 
