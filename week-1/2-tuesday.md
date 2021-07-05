@@ -48,7 +48,9 @@ Use 1 computer and monitor (the second one should be switched off, otherwise you
 
 ### Testing (Jest).
 
-[Explore](https://github.com/Elbrus-Bootcamp/manuals/blob/master/jasmine.md) (RUS)
+* [Play around with Jest playground](https://replit.com/@jest/jest-playground)
+* [How to write great unit tests](https://stackoverflow.com/questions/3258733/new-to-unit-testing-how-to-write-great-tests)
+* [Elbrus docs](https://github.com/Elbrus-Bootcamp/manuals/blob/master/jasmine.md) (RUS)
 
 ### Nested arrays, enumerating methods
 ### Main section
