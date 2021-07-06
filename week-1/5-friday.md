@@ -1,39 +1,40 @@
-## Пятница
+## Friday
 
-### Утренний чекпоинт!
+### Morning checkpoint!
 
-Напомните инструктору об этом :)
-
-### Судоку
+Do not forget to remind your teacher about it :)
 
 
-- [Sudoku Challenge](../../../../project-sudoku)
+### Sudoku
+
+- [Sudoku Challenge](https://github.com/Elbrus-Bootcamp/project-sudoku/tree/master-eng)
 
 ### Git
 
-### Общие рекомендации
+### General recommendations
 
-* Один человек делает форк
-* Другие делают клон созданного форка
-* Добавьте всех в коллабораторы
-* Каждый работает в своей ветке
-* Делайте merge как можно чаще!
+* One person forks a project
+* The others clone the forked project
+* Add everyone as collaborators
+* Everyone works in their own branch
+* Merge as often as you can!
 
-### Как делать merge?
+### How to merge?
+
 * git add -A
 * git commit -m ""
 * git push origin mybranch
-* На github.com нажать "New pull request"
-* Попросить товарища проверить pull-request
+* On github.com press "New pull request"
+* Ask your teammate to check the pull-request
 
-### Во сколько делать merge?
+### When to merge?
 
 * 12:00
 * 14:00
 * 16:00
-* за 20 минут до показа
+* 20 minutes before the presentation
 
-### Подготовка к понедельнику
+### Getting ready for Monday
 
-* Наши прошлые лекции: [Семён (2020-12)](https://www.youtube.com/watch?v=nRebm1AKM_k&list=PL8NGcSL3ZP-825aSq9GkroP0zubm7e4Sf)
+* Our previous lectures: [Семён (2020-12)](https://www.youtube.com/watch?v=nRebm1AKM_k&list=PL8NGcSL3ZP-825aSq9GkroP0zubm7e4Sf) (RU)
 
