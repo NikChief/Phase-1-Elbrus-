@@ -1,41 +1,43 @@
-## Четверг
+## Thursday
 
-### Утренний чекпоинт!
+### Morning checkpoint!
 
-Напомните инструктору об этом :)
+Do not forget to remind your teacher about it :)
 
-### Регулярные выражения
+### Regular expressions
 
-### Основной раздел
+### Main section
 
-*До 15:00:*
-**Задачи на регулярные выражения**
+*Before 15:00:*
 
-
-- [Регулярные выражения](../../../../core-regular-expressions)
-- Практика по регулярным выражениям
-    - [Онлайн-RegEx-Кроссворды](https://regexcrossword.com/)
-    - [Онлайн-RegEx-Задачи](https://www.hackerrank.com/domains/regex)
+**Regular expressions exercises**
 
 
-*После 15:00:*
-
-**Задачи на JS**
-
-
-- [Поиск слова](../../../../core-algorithm-word-search)
-- [JS Racer](../../../../core-algorithm-racer-1)
-
-*в 17:00 доклад по git*
+- [Regular expressions](https://github.com/Elbrus-Bootcamp/core-regular-expressions/tree/master-eng)
+- Regular expressions exercises
+    - [Online-RegEx-Crosswords](https://regexcrossword.com/)
+    - [Online-RegEx-Tasks](https://www.hackerrank.com/domains/regex)
 
 
-### Вспомогательные источники
-- [Регулярные выражения - методы](https://learn.javascript.ru/regexp-methods)
-- [Регулярные выражения - онлайн тестер](https://regex101.com)
-- [Визуализация регулярных выражений. Пример валидации ICQ.](https://www.debuggex.com/r/-p2UCw7V4oK2IkL8)
-- [Тестирование Jest](https://jestjs.io/docs/en/getting-started)
+*After 15:00:*
 
-Для тестирования требуется использовать Jasmine [Jasmine][]. Напоминаем, основные методы, используемые в Jasmine: `describe()`, `it()`, `expect()`, и другие. Если хотите установить настройки перед каждым тестом, нужно использовать `beforeEach()` и/или `beforeAll()`. Когда вызываешь функцию `describe ()`, то передавай анонимную функцию, содержащую фактические тесты. На Рисунке 4 показан тест, написанный в Jasmine.
+**JS exercises**
+
+
+- [Word search](https://github.com/Elbrus-Bootcamp/core-algorithm-word-search/tree/master-eng)
+- [JS Racer](https://github.com/Elbrus-Bootcamp/core-algorithm-interval-racer) (RU)
+
+*в 17:00 lecture on git*
+
+
+### Helpful resources
+- [Regular expressions - methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+- [Regular expressions - online editor](https://regex101.com)
+- [Visualization of regular expressions](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24)
+- [Testing with Jest](https://jestjs.io/docs/en/getting-started)
+
+For testing it is required to use Jasmine [Jasmine] []. Remember, the main methods used in Jasmine are: `describe ()`, `it ()`, `expect ()`, and others. If you want to set preferences before each test, you need to use `beforeEach ()` and / or `beforeAll ()`. When you call the `describe ()` function, pass in an anonymous function containing the actual tests. Figure 4 shows a test written in Jasmine.
+
 ```
 describe('a string with my name', function() {
   let myName;
@@ -47,7 +49,8 @@ describe('a string with my name', function() {
   });
 });
 ```
-Рисунок 4. Тестирование значения объекта строки JavaScript с помощью Jasmine.
+Figure 4. Testing the value of a JavaScript string object using Jasmine.
 
-### Подготовка на завтра 
-- [Работа с git](https://github.com/Elbrus-Bootcamp/git-steps/blob/master/README.md)
+### Preparing for tomorrow 
+- [Git](https://github.com/Elbrus-Bootcamp/git-steps/blob/master/README.md) (RU)
+
