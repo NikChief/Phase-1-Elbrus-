@@ -26,6 +26,7 @@ Do not forget to remind your teacher about it :)
 * git push origin mybranch
 * On github.com press "New pull request"
 * Ask your teammate to check the pull-request
+* After a teammate makes a pull request, you can update the changes using `git pull origin master` (but `master` may instead be `master-eng`, `main`, etc., you need to double check the name of the branch you are using as the "main" one).
 
 ### When to merge?
 
