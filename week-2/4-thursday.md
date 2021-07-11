@@ -15,16 +15,16 @@ Do not forget to remind your teacher about it :)
 ### Main section
 
 **Challenges**
-- [FS Progressbar](../../../..//fs-files-progressbar)
-- [Parsing Data (part 2: argv)](../../../../core-js-parsing-data-argv)
-- [Todo List](../../../../to-do-list-JS)
+- [FS Progressbar](https://github.com/Elbrus-Bootcamp/fs-files-progressbar/tree/master-eng)
+- [Parsing Data (part 2: argv)](https://github.com/Elbrus-Bootcamp/core-js-parsing-data-argv/tree/master-eng)
+- [Todo List](https://github.com/Elbrus-Bootcamp/to-do-list-JS/tree/master-eng)
 
 
 ### Additional section
 
 **Challenges**
-- [Bernie's Bistro](../../../../algorithms-and-oo-checkpoint-challenge)
-- [Labyrinth](../../../../labyrinth-challenge)
+- [Bernie's Bistro](https://github.com/Elbrus-Bootcamp/algorithms-and-oo-checkpoint-challenge/tree/master-eng)
+- [Labyrinth](https://github.com/Elbrus-Bootcamp/labyrinth-challenge/tree/master-eng)
 
 
 ### Materials for tomorrow
