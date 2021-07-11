@@ -1,26 +1,27 @@
-## Вторник
+## Tusday
 
 
 ### SQL, Sequelize RAW Queries
-### Основной раздел
+### Main section
 
-**Задания**
-- [Скачки - выполнять только Релиз 0](../../../../p1-sql-sequelize-races)
-- [Социальная сеть](../../../../p1-sql-core-social)
-- [Cookies and Ovens](../../../../p1-sql-sequelize-cookies)
+**Challenges**
+- [Races - finish only Release 0](../../../../p1-sql-sequelize-races/tree/master-eng)
+- [Social network](../../../../p1-sql-core-social/tree/master-eng)
+- [Cookies and Ovens](../../../../p1-sql-sequelize-cookies/tree/master-eng)
 
 
-### Вспомогательные источники
+### Additional resources
 
 - [Sequelize документация по RAW Queries](https://sequelize.org/master/manual/raw-queries.html)
 - [Raw Queries](https://runebook.dev/ru/docs/sequelize/manual/raw-queries)
 
 
-**Видео:**
+**Video:**
 - [SQL vs NoSQL](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y&t=770s)
 
 
-### Подготовка к завтрашнему дню
+### Preparation for tomorrow
 
-- [Sequelize документация по Моделям](https://sequelize.org/master/manual/model-basics.html)
-- [Sequelize документация по CLI](https://sequelize.org/master/manual/migrations.html)
+- [Sequelize documentation on Models](https://sequelize.org/master/manual/model-basics.html)
+- [Sequelize documentation on CLI](https://sequelize.org/master/manual/migrations.html)
+

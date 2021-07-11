@@ -1,35 +1,35 @@
-## Вторник
+## Tuesday
 
-### Утренний чекпоинт!
+### Morning checkpoint!
 
-Напомните инструктору об этом :)
+Do not forget to remind your teacher about it :)
 
-### Основы ООП: Классы, Методы, Наследование
-
-
-### Вспомогательные источники
-
-- [Learn JS - Классы](https://learn.javascript.ru/class)
-- [Learn JS - Наследование классов](https://learn.javascript.ru/class-inheritance)
-- [Learn JS - static](https://learn.javascript.ru/static-properties-methods)
-
-### Основной раздел
-
-**Задания**
-- [Апельсиновое дерево](../../../../core-js-oop-tdd-orange-tree)
-- [Сад](../../../../core-js-oop-garden)
-- [Рощи деревьев](../../../../core-js-oop-inheritance-tree-grooves)
+### Object-oriented programming concepts: Classes, Methods, Inheritance
 
 
-### Дополнительный раздел
+### Additional resources
 
-**Задания**
-- [Печенье и плиты](../../../../core-js-oop-cookies-and-ovens)
-- [Лабиринт](../../../../labyrinth-challenge)
+- [Learn JS - Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+- [Learn JS - Inheritance](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
+- [Learn JS - static](https://javascript.info/static-properties-methods#:~:text=Such%20methods%20are%20called%20static.&text=The%20value%20of%20this%20in,any%20particular%20object%20of%20it.)
 
-*Если ты не выполнял(а) это задание - можешь сделать его сейчас. Если выполнял(а) - перепиши его в Объектно-Ориентированном стиле.*
-- [JS Racer](../../../../js-racer-1-outrageous-fortune-challenge) *(Спроектируй правильно - у тебя должно получиться минимум 2 класса и 3 объекта. Может быть больше.)*
+### Main section
+
+**Challenges**
+- [Orange tree](https://github.com/Elbrus-Bootcamp/core-js-oop-tdd-orange-tree/tree/master-eng)
+- [Garden](https://github.com/Elbrus-Bootcamp/core-js-oop-garden/tree/master-eng)
+- [Tree grove](https://github.com/Elbrus-Bootcamp/core-js-oop-inheritance-tree-grooves/tree/master-eng)
 
 
-### Вспомогательные источники
-- Завтрашняя лекция: [Игорь (2021-01)](https://www.youtube.com/watch?v=XaoL-VsqMIM&list=PL8NGcSL3ZP-8cLsXWAQb_7uxw_rSaOfBt&index=18)
+### Additional section 
+
+**Challenges**
+- [Cookies and ovens](https://github.com/Elbrus-Bootcamp/core-js-oop-cookies-and-ovens/tree/master-eng)
+- [Labyrinth](https://github.com/Elbrus-Bootcamp/labyrinth-challenge/tree/master-eng)
+
+*If you haven't done this exercise - you can do it now. If you have - then do it again using OOP.*
+- [JS Racer](https://github.com/Elbrus-Bootcamp/core-algorithm-interval-racer/tree/master-eng) *(Design correctly - you should have at least 2 classes and 3 objects. Maybe more.)*
+
+
+### Additional resources
+- Tomorrow's lecture: [Igor (2021-01)](https://www.youtube.com/watch?v=XaoL-VsqMIM&list=PL8NGcSL3ZP-8cLsXWAQb_7uxw_rSaOfBt&index=18) (RU)
