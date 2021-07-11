@@ -1,20 +1,20 @@
-## Пятница
+## Friday
 
-### Утренний чекпоинт!
+### Morning checkpoint!
 
-Напомните инструктору об этом :)
+Do not forget to remind your teacher about it :)
 
-### Групповой проект
+### Group project 
 ### Flashcards
 
 - [Flashcards (console)](../../../../project-flashcards-console)
 
 
-### Общие рекомендации
+### Recommendations
 
-[Как работать с командным проектом](https://github.com/Elbrus-Bootcamp/phase-1/blob/master/resources/challenge-all.md)
+[How to work on a group project](https://github.com/Elbrus-Bootcamp/phase-1/blob/master/resources/challenge-all.md)
 
 
-### Подготовка к понедельнику
+### Getting ready for Monday
 
-* Наши прошлые лекции: [Семён (2021-03)](https://www.youtube.com/watch?v=oWSIBlOv3o0&list=PL8NGcSL3ZP-93HzjRNsZTwglTtDDjvk4l&index=14)
+* Our previous lectures: [Семён (2021-03)](https://www.youtube.com/watch?v=oWSIBlOv3o0&list=PL8NGcSL3ZP-93HzjRNsZTwglTtDDjvk4l&index=14)
