@@ -5,9 +5,9 @@
 ### Main section
 
 **Challenges**
-- [Races - finish only Release 0](../../../../p1-sql-sequelize-races)
-- [Social network](../../../../p1-sql-core-social)
-- [Cookies and Ovens](../../../../p1-sql-sequelize-cookies)
+- [Races - finish only Release 0](../../../../p1-sql-sequelize-races/tree/master-eng)
+- [Social network](../../../../p1-sql-core-social/tree/master-eng)
+- [Cookies and Ovens](../../../../p1-sql-sequelize-cookies/tree/master-eng)
 
 
 ### Additional resources
