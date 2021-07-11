@@ -16,12 +16,12 @@ Don't forget to remind your teacher about it :)
 ### Main part
 
 **Assignments**
-- [Parsing Data](../../../../parsing-data-1-csv-in-csv-out-challenge/master-eng)
-- [Searching words in a file](../../../../words-in-a-file-challenge/master-eng)
+- [Parsing Data](https://github.com/Elbrus-Bootcamp/core-js-parsing-data-fs/tree/master-eng)
+- [Searching words in a file](https://github.com/Elbrus-Bootcamp/words-in-a-file-challenge/tree/master-eng)
 
 ### Additional materials
 
 **Assignments**
-- [Barney's Bistro](../../../../algorithms-and-oo-checkpoint-challenge/master-eng)
-- [Labyrinth](../../../../labyrinth-challenge/master-eng)
+- [Barney's Bistro](https://github.com/Elbrus-Bootcamp/algorithms-and-oo-checkpoint-challenge/tree/master-eng)
+- [Labyrinth](https://github.com/Elbrus-Bootcamp/labyrinth-challenge/tree/master-eng)
 - Tomorrow's lecture (rus): [Zhenya (2020-08)](https://www.youtube.com/watch?v=2yQK4SFXMRY&list=PL8NGcSL3ZP-_tTReN_spNfCi-6D4Ox-0o&index=11)

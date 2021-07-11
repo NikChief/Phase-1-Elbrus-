@@ -16,8 +16,8 @@
 ### Main part
 
 **Assignments**
-- [Train or Truck](../../../../core-proto-vehicle/master-eng)
-- [Disney](../../../../core-proto-disney/master-eng)
+- [Train or Truck](https://github.com/Elbrus-Bootcamp/core-proto-vehicle/tree/master-eng)
+- [Disney](https://github.com/Elbrus-Bootcamp/core-proto-disney/tree/master-eng)
 
 **Take a look before sleep**
 - [Learn JS - Классы][Class] (ru)
