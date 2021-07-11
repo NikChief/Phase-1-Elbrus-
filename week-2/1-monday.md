@@ -12,6 +12,9 @@
 - [Learn JS - Objects](https://javascript.info/object)
 - [Learn JS - Object methods, "this"](https://javascript.info/object-methods)
 - [Learn JS - Constructors, "new"](https://javascript.info/constructor-new)
+- [Learn JS - Prototypal
+    inheritance](https://javascript.info/prototype-inheritance)
+- [Learn JS - Function prototype](https://javascript.info/function-prototype)
 
 ### Main part
 
