@@ -1,31 +1,31 @@
-## Четверг
+## Thursday
 
-### Утренний чекпоинт!
+### Morning checkpoint!
 
-Напомните инструктору об этом :)
+Do not forget to remind your teacher about it :)
 
-### Асинхронность, argv
+### Asynchrony, argv
 
-### Вспомогательные источники
+### Additional resources
 
-- [Основы работы с событиями](https://learn.javascript.ru/events-and-timing-depth)
-- [Как работает Цикл событий (Event Loop), асинхронность](https://habr.com/ru/company/ruvds/blog/340508/)
+- [Basics of working with events](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
+- [How does an event loop work, asynchrony](https://www.youtube.com/watch?v=8aGhZQkoFbQ&vl=en&ab_channel=JSConf)
 
 
-### Основной раздел
+### Main section
 
-**Задания**
+**Challenges**
 - [FS Progressbar](../../../..//fs-files-progressbar)
 - [Parsing Data (part 2: argv)](../../../../core-js-parsing-data-argv)
 - [Todo List](../../../../to-do-list-JS)
 
 
-### Дополнительный раздел
+### Additional section
 
-**Задания**
-- [Бистро Берни](../../../../algorithms-and-oo-checkpoint-challenge)
-- [Лабиринт](../../../../labyrinth-challenge)
+**Challenges**
+- [Bernie's Bistro](../../../../algorithms-and-oo-checkpoint-challenge)
+- [Labyrinth](../../../../labyrinth-challenge)
 
 
-### Материалы на завтра 
+### Materials for tomorrow
 - [The Model-View-Controller ENG](../../../../mvc)
