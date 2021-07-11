@@ -20,7 +20,7 @@
 - [Disney](https://github.com/Elbrus-Bootcamp/core-proto-disney/tree/master-eng)
 
 **Take a look before sleep**
-- [Learn JS - Классы][Class] (ru)
+- [Learn JS - Классы][Class]
 
 ### Additional materials
 - Tomorrow's lecture (rus): [Simon (2020-08)](https://www.youtube.com/watch?v=6DO-tJtUjS8&list=PL8NGcSL3ZP-_tTReN_spNfCi-6D4Ox-0o&index=13)
@@ -33,4 +33,4 @@
 - [Bicycles and stations](../../../../oojs-bikes-and-stations-challenge) (not translated yet)
 
 
-[Class]: https://learn.javascript.ru/class
+[Class]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/class
