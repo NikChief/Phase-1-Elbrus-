@@ -9,9 +9,9 @@
 
 ### Additional materials
 
-- [Learn JS - Objects](https://learn.javascript.ru/object) (ru)
-- [Learn JS - Object methods, "this"](https://learn.javascript.ru/object-methods) (ru)
-- [Learn JS - Constructors, "new"](https://learn.javascript.ru/constructor-new) (ru)
+- [Learn JS - Objects](https://javascript.info/object)
+- [Learn JS - Object methods, "this"](https://javascript.info/object-methods)
+- [Learn JS - Constructors, "new"](https://javascript.info/constructor-new)
 
 ### Main part
 
