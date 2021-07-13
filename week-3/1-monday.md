@@ -17,6 +17,7 @@
 - [Построение ER-Диаграмм](http://inf-teh-lotos.ru/sozdanie-er-diagramm)
 - [Online ERD Tool](https://online.visual-paradigm.com/diagrams/features/erd-tool/)
 - [Статья на Хабре про PostgreSQL](https://habr.com/ru/post/340460/)
+- [Как создать пользователя через psql](../resources/psql-create-user.md)
 
 **Видео:**
 
@@ -25,4 +26,4 @@
 
 ### Подготовка к завтрашнему дню
 
-* Sequelize ORM: [Документация](https://sequelize.org/master/manual/getting-started.html)
+- Sequelize ORM: [Документация](https://sequelize.org/master/manual/getting-started.html)
