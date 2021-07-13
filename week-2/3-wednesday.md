@@ -5,7 +5,9 @@
 Don't forget to remind your teacher about it :)
 
 ### Node.js, file system, NPM and testing in Node.js
-
+- [Reading from a file in Node.js](https://nodejs.dev/learn/reading-files-with-nodejs)
+- [StackOverflow for above](https://stackoverflow.com/questions/6156501/read-a-file-one-line-at-a-time-in-node-js) (or google yourself, "read file node.js")
+- [Review node vs browser](https://nodejs.dev/learn/differences-between-nodejs-and-the-browser)
 
 ### Additional materials
 
