@@ -4,9 +4,7 @@
 ### Основной раздел
 ### JavaScript & DOM
 
-**Задания**
-- [Aviasales (minimal version)](https://github.com/Elbrus-Bootcamp/core-js-base-aviasales)
-- [Пианино](../../../../core-js-base-piano)
+[**Ссылка на задания**](https://github.com/Elbrus-Bootcamp/p1w1d1)
 
 **Дополнительные задания**
 
