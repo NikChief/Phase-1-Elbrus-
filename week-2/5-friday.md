@@ -17,4 +17,4 @@ Do not forget to remind your teacher about it :)
 
 ### Getting ready for Monday
 
-* Our previous lectures: [Semen (2021-03)](https://www.youtube.com/watch?v=oWSIBlOv3o0&list=PL8NGcSL3ZP-93HzjRNsZTwglTtDDjvk4l&index=14) (ru)
+* Our previous lectures: [Simon (2021-03)](https://www.youtube.com/watch?v=oWSIBlOv3o0&list=PL8NGcSL3ZP-93HzjRNsZTwglTtDDjvk4l&index=14) (ru)
