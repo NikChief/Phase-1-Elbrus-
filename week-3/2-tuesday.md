@@ -5,15 +5,15 @@
 ### Main section
 
 **Challenges**
-- [Races - finish only Release 0](../../../../p1-sql-sequelize-races/tree/master-eng)
-- [Social network](../../../../p1-sql-core-social/tree/master-eng)
-- [Cookies and Ovens](../../../../p1-sql-sequelize-cookies/tree/master-eng)
+- [Races - finish only Release 0](https://github.com/Elbrus-Bootcamp/p1-sql-sequelize-races/tree/master-eng)
+- [Social network](https://github.com/Elbrus-Bootcamp/p1-sql-core-social/tree/master-eng)
+- [Cookies and Ovens](https://github.com/Elbrus-Bootcamp/p1-sql-sequelize-cookies/tree/master-eng)
 
 
 ### Additional resources
 
 - [Sequelize документация по RAW Queries](https://sequelize.org/master/manual/raw-queries.html)
-- [Raw Queries](https://runebook.dev/ru/docs/sequelize/manual/raw-queries)
+- [Raw Queries](https://runebook.dev/en/docs/sequelize/manual/raw-queries)
 
 
 **Video:**
