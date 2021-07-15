@@ -2,7 +2,6 @@
 
 
 ### Основной раздел
-### JavaScript & DOM
 
 [**Ссылка на задания**](https://github.com/Elbrus-Bootcamp/p1w1d1)
 
