@@ -1,8 +1,6 @@
 ## Monday
 
-
 ### SQL
-
 
 ### Assignments
 - [The World is ours!](https://github.com/Elbrus-Bootcamp/p1-sql-intro/tree/master-eng)
@@ -17,7 +15,7 @@
 - [Building ER-Diagrams](http://inf-teh-lotos.ru/sozdanie-er-diagramm) (rus)
 - [Online ERD Tool](https://online.visual-paradigm.com/diagrams/features/erd-tool/)
 - [Habr article on PostgreSQL](https://habr.com/ru/post/340460/) (rus)
-
+- [How to create a user in psql](../resources/psql-create-user.md)
 
 **Videos:**
 - [PostgreSQL Tutorial for Beginners](https://youtu.be/qw--VYLpxG4)
@@ -25,7 +23,3 @@
 
 ### Preparing for tomorrow
 * Sequelize ORM: [Documentation](https://sequelize.org/master/manual/getting-started.html)
-
-
-
-

@@ -1,8 +1,8 @@
 # Monday: JavaScript & DOM
 
-## Assignments**
-- [Aviasales (minimal version)](https://github.com/Elbrus-Bootcamp/core-js-base-aviasales/tree/master-eng)
-- [Piano](https://github.com/Elbrus-Bootcamp/core-js-base-piano/tree/master-eng)
+## Assignments
+
+[**Link to assignments** (untranslated, RU)](https://github.com/Elbrus-Bootcamp/p1w1d1)
 
 **Additional Assignments**
 
@@ -10,7 +10,6 @@
 - [Simple multipliers](.../.../.../extra-algorithm-prime-factors)
 - [Eratosthenes Sieve](https://github.com/Elbrus-Bootcamp/extra-algorithm-prime-factors-eratosthenes/tree/master-eng)
 - [Product Catalog](https://github.com/Elbrus-Bootcamp/js-core-catalog/tree/master-eng)
-
 **Materials**.
 - [Date - attributes](https://developer.mozilla.org/en/docs/Web/Guide/HTML/Using_data_attributes)
 
