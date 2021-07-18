@@ -1,25 +1,25 @@
-## Wednesday
+## Среда
 
 # *Sequelize!*
 
 
-### Main section
+### Основной раздел
 
-**Assignments**
-- [Intro](https://github.com/Elbrus-Bootcamp/p1-sequelize-models-intro/tree/master-eng)
-- [Races](https://github.com/Elbrus-Bootcamp/p1-sql-sequelize-races/tree/master-eng)
-- [Hotels](https://github.com/Elbrus-Bootcamp/p1-sequelize-hotels/tree/master-eng)
-- [Comments](https://github.com/Elbrus-Bootcamp/p1-sequelize-comments/tree/master-eng)
+**Задания**
+- [Intro](../../../../p1-sequelize-models-intro)
+- [Скачки](../../../../p1-sql-sequelize-races)
+- [Отели](../../../../p1-sequelize-hotels)
+- [Комментарии](../../../../p1-sequelize-comments)
 
 
 
-### Auxiliary sources
+### Вспомогательные источники
 
 - [model](https://sequelize.org/master/manual/model-querying-basics.html)
 - [sequelize cli](https://sequelize.org/master/manual/migrations.html)
 - [Associations](https://sequelize.org/master/manual/assocs.html)
 - [Model Querying](https://sequelize.org/master/manual/model-querying-basics.html)
 
-### Preparing for tomorrow
+### Подготовка к завтрашнему дню
 
-[Model Querying - Advanced](https://sequelize.org/master/manual/model-querying-finders.html)
+[Методы моделей - Advanced](https://sequelize.org/master/manual/model-querying-finders.html)
