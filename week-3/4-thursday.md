@@ -1,17 +1,17 @@
-## Четверг
+## Thursday
 
 ### Sequelize  
-### Основной раздел
+### Main section
 
-**Задания**
-- [Комментарии](../../../../p1-sequelize-comments)
-- [Футболки](../../../../p1-sequelize-shirts)
-- [Курсы университета](../../../../p1-sequelize-university)
+**Assignments**
+- [Comments](https://github.com/Elbrus-Bootcamp/p1-sequelize-comments/tree/master-eng)
+- [T-shirts](https://github.com/Elbrus-Bootcamp/p1-sequelize-shirts/tree/master-eng)
+- [College courses](https://github.com/Elbrus-Bootcamp/p1-sequelize-university/tree/master-eng)
 
 
-### Вспомогательные источники
+### Auxiliary sources
 
-- [model](https://sequelize.org/master/manual/model-querying-basics.html)
-- [sequelize cli](https://sequelize.org/master/manual/migrations.html)
+- [Model](https://sequelize.org/master/manual/model-querying-basics.html)
+- [Sequelize cli](https://sequelize.org/master/manual/migrations.html)
 - [Associations](https://sequelize.org/master/manual/assocs.html)
 - [Model Querying](https://sequelize.org/master/manual/model-querying-basics.html)
