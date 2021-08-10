@@ -6,6 +6,7 @@
 
 **Задания**
 - [Скачки - выполнять только Релиз 0](../../../../p1-sql-sequelize-races)
+- [Создание ORM](../../../../core-sql-js-handmade-orm)
 - [Социальная сеть](../../../../p1-sql-core-social)
 - [Cookies and Ovens](../../../../p1-sql-sequelize-cookies)
 
