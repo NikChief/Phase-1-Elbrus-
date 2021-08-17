@@ -11,7 +11,7 @@
   - [fs progressbar](https://github.com/Elbrus-Bootcamp/fs-files-progressbar)
   - Одна из прошлых лекций понедельника: [youtube](https://youtu.be/GfLDk2R37SA), [презентация](https://github.com/Elbrus-Bootcamp/phase-1/blob/master/resources/P1-W3-D1%20-%20SQL.pptx)
 
-**Чем заняться на выходных**
+**Подготовка к следующей недели**
 
 - Обязательно установите на свой компьютер PostgreSQL [для Ubuntu](https://www.postgresql.org/download/linux/ubuntu/), [для mac](https://www.postgresql.org/download/macosx/)
 - [Познакомьтесь с PostgreSQL](https://youtu.be/qw--VYLpxG4)
