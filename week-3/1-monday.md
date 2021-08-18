@@ -26,4 +26,5 @@
 
 ### Подготовка к завтрашнему дню
 
-- Sequelize ORM: [Документация](https://sequelize.org/master/manual/getting-started.html)
+- [Гайд по Sequelize ORM (ru)](https://github.com/Elbrus-Bootcamp/sequelize-guide)
+- [Официальная документация Sequelize ORM (en)](https://sequelize.org/master/manual/getting-started.html)
