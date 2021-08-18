@@ -11,9 +11,16 @@
   - [fs progressbar](https://github.com/Elbrus-Bootcamp/fs-files-progressbar)
   - Одна из прошлых лекций понедельника: [youtube](https://youtu.be/GfLDk2R37SA), [презентация](https://github.com/Elbrus-Bootcamp/phase-1/blob/master/resources/P1-W3-D1%20-%20SQL.pptx)
 
-**Подготовка к следующей недели**
+### Подготовка к следующей недели
 
-- Обязательно установите на свой компьютер PostgreSQL [для Ubuntu](https://www.postgresql.org/download/linux/ubuntu/), [для mac](https://www.postgresql.org/download/macosx/)
-- [Познакомьтесь с PostgreSQL](https://youtu.be/qw--VYLpxG4)
-- [Познакомьтесь с pgAdmin](https://youtu.be/Dd2ej-QKrWY)
+**Обязательно установите на свой компьютер:**
+
+- PostgreSQL [для Ubuntu](https://www.postgresql.org/download/linux/ubuntu/), [для macOS](https://www.postgresql.org/download/macosx/) (RDBMS, РСУБД)
+- [Beekeeper Studio](https://www.beekeeperstudio.io/) (Editor and Database Manager)
+
+**Изучите материалы:**
+
+- [Документация по PostgreSQL (ru)](https://postgrespro.ru/docs/postgresql/13/index)
+- [Видеогайд по PostgreSQL (en)](https://youtu.be/qw--VYLpxG4)
+- [Гайд по Beekeeper Studio (en)](https://docs.beekeeperstudio.io/guide/)
 - Повторите темы этой и прошлой недели (асинхронность, промисы, ООП)
