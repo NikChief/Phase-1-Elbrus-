@@ -31,5 +31,5 @@
 - [JS Racer](../../../../js-racer-1-outrageous-fortune-challenge) *(Спроектируй правильно - у тебя должно получиться минимум 2 класса и 3 объекта. Может быть больше.)*
 
 
-### Вспомогательные источники
-- Завтрашняя лекция: [Игорь (2021-01)](https://www.youtube.com/watch?v=XaoL-VsqMIM&list=PL8NGcSL3ZP-8cLsXWAQb_7uxw_rSaOfBt&index=18)
+**Подготовка на завтра**  
+- [Git](https://github.com/Elbrus-Bootcamp/short-squeeze-phase-1/tree/master/week-2/event%20loop) / [Youtube](https://youtu.be/EbhwdV74sqw) 
