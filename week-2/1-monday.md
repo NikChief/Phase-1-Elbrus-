@@ -34,3 +34,6 @@
 
 
 [Class]: https://learn.javascript.ru/class
+
+**Подготовка на завтра**  
+- [Git](https://github.com/Elbrus-Bootcamp/short-squeeze-phase-1/tree/master/week-2/classes) / [Youtube](https://youtu.be/c4Yc6sJ08zg) 
