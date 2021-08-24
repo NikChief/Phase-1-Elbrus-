@@ -29,3 +29,7 @@
 
 ### Материалы на завтра 
 - [The Model-View-Controller ENG](../../../../mvc)
+
+**Подготовка на завтра**  
+- [Git](https://github.com/Elbrus-Bootcamp/short-squeeze-phase-1/tree/master/week-2/promises) / [Youtube](https://youtu.be/wQfv0Lks_Bc) 
+
