@@ -25,5 +25,5 @@
 - [JS OOP Racer](../../../../core-oop-promise-racer)
 - Всё выполнил? Нужны ещё задания? Сообщи нам об этом!
 
-### Подготовка к завтрашнему дню
-* Завтрашняя лекция: [Женя (2020-08)](https://www.youtube.com/watch?v=bQHEnR4CMbI&list=PL8NGcSL3ZP-_tTReN_spNfCi-6D4Ox-0o&index=9&t=0s)
+### Подготовка к завтрашнему дню 
+- [The Model-View-Controller ENG](../../../../mvc)
