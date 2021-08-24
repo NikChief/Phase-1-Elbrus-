@@ -68,7 +68,6 @@ https://habr.com/ru/post/151563/
 
 - [Документация Mozilla](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 - [Интерактивная шпаргалка JS](https://htmlcheatsheet.com/js)
-- Завтрашняя лекция: [Женя (2020-03)](https://www.youtube.com/watch?v=CuZTWdUnwMw&list=PL8NGcSL3ZP--IPOAADXlCXObb3cbrYioH&index=2)
 
-**Подготовка на завтра**  
-- [Git](https://github.com/Elbrus-Bootcamp/short-squeeze-phase-1/tree/master/week-1/recursion) / [Youtube](https://youtu.be/V5chcssPcSM) 
+### Подготовка к завтрашнему дню
+- [Git](https://github.com/Elbrus-Bootcamp/short-squeeze-phase-1/tree/master/week-1/recursion) / [YouTube](https://youtu.be/V5chcssPcSM) 
