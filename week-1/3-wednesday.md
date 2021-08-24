@@ -32,4 +32,6 @@
 - [Оценка сложности алгоритмов](https://habr.com/ru/post/104219/)
 - [Сложности популярных алгоритмов](https://habr.com/ru/post/188010/)
 - [Анализ сложности алгоритмов (Цикл статей. Углубленное изучение)](https://habr.com/ru/post/196560/)
-- Завтрашняя лекция: [Игорь (2020-10)](https://www.youtube.com/watch?v=D6ur8WFnA98&list=PL8NGcSL3ZP-_OVaarWZPm5TX6xik2cnZm&index=3)
+
+**Подготовка на завтра**  
+- [Git](https://github.com/Elbrus-Bootcamp/short-squeeze-phase-1/tree/master/week-1/strings) / [Youtube](https://youtu.be/d2zv0mYSK8c) 
