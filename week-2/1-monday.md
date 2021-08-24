@@ -22,9 +22,6 @@
 **Почитать перед сном**
 - [Learn JS - Классы][Class]
 
-### Вспомогательные источники
-- Завтрашняя лекция: [Семён (2020-08)](https://www.youtube.com/watch?v=6DO-tJtUjS8&list=PL8NGcSL3ZP-_tTReN_spNfCi-6D4Ox-0o&index=13)
-
 ### Дополнительный раздел
 
 **Задания**
@@ -35,5 +32,5 @@
 
 [Class]: https://learn.javascript.ru/class
 
-**Подготовка на завтра**  
-- [Git](https://github.com/Elbrus-Bootcamp/short-squeeze-phase-1/tree/master/week-2/classes) / [Youtube](https://youtu.be/c4Yc6sJ08zg) 
+### Подготовка к завтрашнему дню 
+- [Git](https://github.com/Elbrus-Bootcamp/short-squeeze-phase-1/tree/master/week-2/classes) / [YouTube](https://youtu.be/c4Yc6sJ08zg) 
