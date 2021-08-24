@@ -33,5 +33,5 @@
 - [Сложности популярных алгоритмов](https://habr.com/ru/post/188010/)
 - [Анализ сложности алгоритмов (Цикл статей. Углубленное изучение)](https://habr.com/ru/post/196560/)
 
-**Подготовка на завтра**  
-- [Git](https://github.com/Elbrus-Bootcamp/short-squeeze-phase-1/tree/master/week-1/strings) / [Youtube](https://youtu.be/d2zv0mYSK8c) 
+### Подготовка к завтрашнему дню
+- [Git](https://github.com/Elbrus-Bootcamp/short-squeeze-phase-1/tree/master/week-1/strings) / [YouTube](https://youtu.be/d2zv0mYSK8c) 
