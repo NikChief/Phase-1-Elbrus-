@@ -29,8 +29,8 @@
 После этого будет создан новый issue и мы через некоторое время сделаем его
 
 
-**Подготовка на завтра**  
-- [Git](https://github.com/Elbrus-Bootcamp/short-squeeze-phase-1/tree/master/week-1/array-methods) / [Youtube](https://youtu.be/U6AFDICVQq4) 
+### Подготовка к завтрашнему дню  
+- [Git](https://github.com/Elbrus-Bootcamp/short-squeeze-phase-1/tree/master/week-1/array-methods) / [YouTube](https://youtu.be/U6AFDICVQq4) 
 - Еще раз просмотри [стандарт написания кода](https://github.com/leonidlebedev/javascript-airbnb) - это очень важная тема. 
 - Разберись подробно с понятием "Тестирование". Каждый разработчик должен знать что такое тесты, зачем их нужно писать, какую библиотеку лучше использовать. Познакомься с библиотеками для модульного тестирования. Например, c [Jest](https://jestjs.io/en/), [Jasmine](https://jasmine.github.io/). 
  - Посмотри [лекцию по TDD](https://youtu.be/jzkQWe0uROo).
