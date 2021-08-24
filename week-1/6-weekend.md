@@ -21,3 +21,5 @@
 - [Видео - JavaScript Classes Tutorial](https://www.youtube.com/watch?v=2ZphE5HcQPQ)
 - [Видео - шикарный 👑 Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
+**Подготовка к понедельнику**  
+- [Git](https://github.com/Elbrus-Bootcamp/short-squeeze-phase-1/tree/master/week-2/objects) / [Youtube](https://youtu.be/VyDuJMxEf-0) 
