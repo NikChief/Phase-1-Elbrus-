@@ -17,4 +17,4 @@
 
 ### Подготовка к понедельнику
 
-* Наши прошлые лекции: [Семён (2021-03)](https://www.youtube.com/watch?v=oWSIBlOv3o0&list=PL8NGcSL3ZP-93HzjRNsZTwglTtDDjvk4l&index=14)
+
