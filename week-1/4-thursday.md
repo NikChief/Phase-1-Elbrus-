@@ -49,5 +49,5 @@ describe('a string with my name', function() {
 ```
 Рисунок 4. Тестирование значения объекта строки JavaScript с помощью Jasmine.
 
-### Подготовка на завтра 
+### Подготовка к завтрашнему дню
 - [Работа с git](https://github.com/Elbrus-Bootcamp/git-steps/blob/master/README.md)
