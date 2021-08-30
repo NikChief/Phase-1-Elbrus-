@@ -13,7 +13,10 @@
 
 **Подготовка к следующей недели**
 
-- Обязательно установите на свой компьютер PostgreSQL [для Ubuntu](https://www.postgresql.org/download/linux/ubuntu/), [для mac](https://www.postgresql.org/download/macosx/)
+- Обязательно установите на свой компьютер PostgreSQL [для Ubuntu](https://www.postgresql.org/download/linux/ubuntu), [для mac](https://www.postgresql.org/download/macosx)
 - [Познакомьтесь с PostgreSQL](https://youtu.be/qw--VYLpxG4)
 - [Познакомьтесь с pgAdmin](https://youtu.be/Dd2ej-QKrWY)
-- Повторите темы этой и прошлой недели (асинхронность, промисы, ООП)
+- Установите [dbeaver community edition](https://dbeaver.io/download)(это аналог pgAdmin)
+- Посмотрите [вводное видео про базы данных](https://www.youtube.com/watch?v=cv4uvzWfMVg)
+- Посмотрите наши прошлые лекции по SQL [youtube](https://youtu.be/MHNklq43WWk) посмотрите [презентацию понедельника](https://docs.google.com/presentation/d/1ZGkNxmlCFHae29qX3I1EI8CbxMWuM94sBsG8PcVl0nU/edit?usp=sharing)
+- прорешайте [тренажер по SQL](https://sql-trainer.elbrusboot.camp)
