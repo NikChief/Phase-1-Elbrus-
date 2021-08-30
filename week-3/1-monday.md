@@ -4,8 +4,9 @@
 
 ### Задания
 
-- [The World is ours!](../../../../p1-sql-intro)
 - [Тренажер SQL](http://sql-trainer.elbrusboot.camp)
+- [The World is ours!](../../../../p1-sql-intro)
+
 
 ### Дополнительные задания
 
