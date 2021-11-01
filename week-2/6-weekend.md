@@ -13,7 +13,7 @@
 
 **Подготовка к следующей недели**
 
-- Обязательно установите на свой компьютер PostgreSQL [для Ubuntu](https://www.postgresql.org/download/linux/ubuntu), [для mac](https://www.postgresql.org/download/macosx)
+- Обязательно установите на свой компьютер PostgreSQL [для Ubuntu](https://www.postgresql.org/download/linux/ubuntu), [для mac](https://www.postgresql.org/download/macosx). Для mac рекомендуется способ установки через Postgres.app
 - [Познакомьтесь с PostgreSQL](https://youtu.be/qw--VYLpxG4)
 - [Познакомьтесь с pgAdmin](https://youtu.be/Dd2ej-QKrWY)
 - Установите [dbeaver community edition](https://dbeaver.io/download)(это аналог pgAdmin)
