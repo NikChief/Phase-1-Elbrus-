@@ -32,4 +32,4 @@
 
 
 ### Подготовка к завтрашнему дню  
-- [Git](https://github.com/Elbrus-Bootcamp/short-squeeze-phase-1/tree/master/week-2/event%20loop) / [YouTube](https://youtu.be/EbhwdV74sqw) 
+- [Git](https://github.com/Elbrus-Bootcamp/short-squeeze-phase-1/tree/master/week-2/event%20loop) / [YouTube](https://youtu.be/UIV7GsyFAfg) 
