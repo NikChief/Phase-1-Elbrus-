@@ -22,4 +22,5 @@
 
 ### Подготовка к завтрашнему дню
 
-[Методы моделей - Advanced](https://sequelize.org/master/manual/model-querying-finders.html)
+- [Методы моделей - Advanced](https://sequelize.org/master/manual/model-querying-finders.html)
+- [Лекция следующего дня](https://www.youtube.com/watch?v=n87nVO8YPM0)
