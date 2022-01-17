@@ -25,3 +25,4 @@
 - [Git](https://github.com/Elbrus-Bootcamp/short-squeeze-phase-1/tree/master/week-3/sequelize-cli) / [YouTube](https://youtu.be/cm0lOojWIGA) 
 - [Sequelize документация по Моделям](https://sequelize.org/master/manual/model-basics.html)
 - [Sequelize документация по CLI](https://sequelize.org/master/manual/migrations.html)
+- [Лекция следующего дня](https://www.youtube.com/watch?v=ZkLLgiO7Hmg)
