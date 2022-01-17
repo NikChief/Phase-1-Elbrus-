@@ -28,3 +28,4 @@
 ### Подготовка к завтрашнему дню
 
 - Sequelize ORM: [Документация](https://sequelize.org/master/manual/getting-started.html)
+- [Лекция следующего дня](https://www.youtube.com/watch?v=nKIdEP1g1gk)
