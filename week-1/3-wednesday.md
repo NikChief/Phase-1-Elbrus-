@@ -35,3 +35,4 @@
 
 ### Подготовка к завтрашнему дню
 - [Git](https://github.com/Elbrus-Bootcamp/short-squeeze-phase-1/tree/master/week-1/strings) / [YouTube](https://youtu.be/d2zv0mYSK8c) 
+- [Лекция следующего дня](https://www.youtube.com/watch?v=h1b0vrSjIDQ)
