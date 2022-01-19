@@ -71,3 +71,4 @@ https://habr.com/ru/post/151563/
 
 ### Подготовка к завтрашнему дню
 - [Git](https://github.com/Elbrus-Bootcamp/short-squeeze-phase-1/tree/master/week-1/recursion) / [YouTube](https://youtu.be/V5chcssPcSM) 
+- [Лекция следующего дня](https://www.youtube.com/watch?v=d6hUdZrDx0w)
