@@ -32,3 +32,4 @@
 
 ### Подготовка к завтрашнему дню 
 - [Git](https://github.com/Elbrus-Bootcamp/short-squeeze-phase-1/tree/master/week-2/promises) / [YouTube](https://youtu.be/AdZQZcxHokQ) 
+- [Лекция](https://www.youtube.com/watch?v=5L2XTf652u0)
