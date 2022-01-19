@@ -36,3 +36,4 @@
 
 ### Подготовка к понедельнику
 - [Git](https://github.com/Elbrus-Bootcamp/short-squeeze-phase-1/tree/master/week-2/objects) / [YouTube](https://youtu.be/VyDuJMxEf-0) 
+- [Лекция](https://www.youtube.com/watch?v=mh2Fw8dUMII)
